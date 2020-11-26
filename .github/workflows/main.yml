@@ -13,3 +13,4 @@ jobs:
           owner: nix-community
           base: master
           head: master
+          merge_method: rebase
