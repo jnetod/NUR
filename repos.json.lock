@@ -142,8 +142,8 @@
             "url": "https://github.com/dtzWill/nur-packages"
         },
         "dukzcry": {
-            "rev": "56c5ed73a1581a3ba7001d0c14346a2e186c153b",
-            "sha256": "047qij3yv05lwgvjrw203r3viy2mx1ch0ddal608r08nad959b3f",
+            "rev": "0786540bd615a8bfbcadac3f4280225fa9959fcd",
+            "sha256": "0h0igfab5lkzdlz2as6jyis24c7mm29q12x34yjs9x3lg1lvhjw3",
             "url": "https://github.com/repos-holder/nur-packages"
         },
         "dywedir": {
@@ -471,8 +471,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "1a28919c442f5e1d8e2ba26bcae5a0b716a3a6e0",
-            "sha256": "194p58wjvgg44wsyv13icbldbmxsndr0sw5y7lnn770gz57l2baz",
+            "rev": "a8190371adbd12b56892734a4eda05a17951733b",
+            "sha256": "12d3nrsqa3pl195vjg366fcslbkvj5irwj3yxnk904754l5vs5z3",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
@@ -496,8 +496,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "01a2666d0f920dc0a615a304caf8c7edf6701ebb",
-            "sha256": "1yxzz1i3bym30zqsdgqyqn5za1m9j951fkdgxm7hrqgp2zvrxjpc",
+            "rev": "a870a35d60b3eb089b2fd22245d6d37d963d2ddd",
+            "sha256": "0s9zz18fzx7migm3195lif470ywgrxcdfvw64h69a5ii1z79w4xa",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
