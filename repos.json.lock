@@ -350,8 +350,8 @@
             "url": "https://github.com/matthewbauer/nur-packages"
         },
         "metadark": {
-            "rev": "401a7fffbad068808acbf80ac1cb858d7e9cc9a0",
-            "sha256": "145phn1kksq5dzz326zqavd46rvd9dk7dxkl1yqp02d94wk2x11q",
+            "rev": "453d0d30970d93ba33e9fba0852ad5c0f12e135b",
+            "sha256": "0phliivaw7h9dccabrkvcxmsh5kbsri7ccydkw6v16i23d6zig1v",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
