@@ -350,8 +350,8 @@
             "url": "https://github.com/matthewbauer/nur-packages"
         },
         "metadark": {
-            "rev": "453d0d30970d93ba33e9fba0852ad5c0f12e135b",
-            "sha256": "0phliivaw7h9dccabrkvcxmsh5kbsri7ccydkw6v16i23d6zig1v",
+            "rev": "8e720a83ddd08ec94ea5b006eb959e3fd0585837",
+            "sha256": "1mr64gbm0ndqa8lz0h70jrh4mq17agcb3499hhjqahv880p9qhg3",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
@@ -512,8 +512,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "53e547c409c6c90da89bf1a72bc31f7cc29d97a9",
-            "sha256": "0fffbhd55772gm8nv0s5c0ihjrzbya2wj0wnfcmnxb7gwvjzbfdh",
+            "rev": "07d8d012f14c50c81ffb2848cb79d02d98c92952",
+            "sha256": "0d969kzw62ynzasr5ks2sj058wsis10m41vlpn5l54w596322rw6",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
