@@ -360,7 +360,7 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "c1438e0a1b29712d0548f266f3cd764a74f1c60d",
+            "rev": "bd79477f2333510f2e4f6440983977e1c5a69ce8",
             "sha256": "0k1nfcwhh70kj9q39msvrcw5pdbqvsbz9rih9v6bi2c5aw4nxwz3",
             "url": "https://github.com/Mic92/nur-packages"
         },
@@ -484,11 +484,6 @@
             "rev": "860cb7bf7981e3ea8dd919ff5343dfa1ad30d36c",
             "sha256": "1pvr54rs8vkrg50fjxz1wzjawc1jqs9kkis4gdmc9nznn6l4n7x5",
             "url": "https://github.com/Ptival/nur-packages"
-        },
-        "pwnytail": {
-            "rev": "1fd77f61fc9d677d60402f1cfba3c77f52dd1688",
-            "sha256": "0984gkhj6kkg7gvmrjifm13qfcjba26ar77lrhcp6lzhjhy87hpb",
-            "url": "https://gitlab01.bsd.services/pwnytail/nur-packages"
         },
         "qchem": {
             "rev": "6ec27b1893d9bcedafd422b72a6596ab7b00f81a",
