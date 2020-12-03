@@ -11,8 +11,8 @@
             "url": "https://github.com/0x4A6F/nur-packages"
         },
         "aasg": {
-            "rev": "a74d1f8d34dfc91f5f731f91b319d034aa125df9",
-            "sha256": "01393dhnqrfp2g0w5d3wj5n1fjf268jpdmzvg0ajrfkx0j2xw4ff",
+            "rev": "d5dedb436245af2603ba5b8213b89808168f3b07",
+            "sha256": "0v24hkpfvrxwd413dkbr6iqlgw0x0nfc9563848wy4ya05ssks6s",
             "url": "https://git.sr.ht/~aasg/nixexprs"
         },
         "andersontorres": {
@@ -471,8 +471,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "a8190371adbd12b56892734a4eda05a17951733b",
-            "sha256": "12d3nrsqa3pl195vjg366fcslbkvj5irwj3yxnk904754l5vs5z3",
+            "rev": "53b47b03a0bebd677b51c1a4a5cf6da6dbb1b2b1",
+            "sha256": "1021sjdzjr10zwpy0b6n6phgdz4kw52dyh451bvf8dg3qbnk76ns",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
