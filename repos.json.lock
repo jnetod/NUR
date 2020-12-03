@@ -6,8 +6,8 @@
             "url": "https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code"
         },
         "_0x4A6F": {
-            "rev": "d081a3038dc16db0fef503b658f6af073bdd48f9",
-            "sha256": "0zpki6cdyhqvdf7mvsq05pq39wwz3avymgxm80gkcvvzpxjb4dxs",
+            "rev": "048bff117a008c7afaa8aab3c6d583f1abd45ef0",
+            "sha256": "14w7g3qwsxn6a5x17vai6g167h2hks9f2w0j9axv3cnb9v0bjki8",
             "url": "https://github.com/0x4A6F/nur-packages"
         },
         "aasg": {
@@ -360,8 +360,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "bd79477f2333510f2e4f6440983977e1c5a69ce8",
-            "sha256": "0k1nfcwhh70kj9q39msvrcw5pdbqvsbz9rih9v6bi2c5aw4nxwz3",
+            "rev": "3d38a84c3d543d79d5c9eac3865c491e5c3efe5b",
+            "sha256": "12ci0xzdiyrsz4xlifwva7w4kzzrg4949yhy4s2427k5x6smbcjm",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
@@ -401,8 +401,8 @@
             "url": "https://github.com/mrVanDalo/nur-packages"
         },
         "mweinelt": {
-            "rev": "21759c51b40109e186c78cc17106df9dedfe7327",
-            "sha256": "1yb7k8nif0ghfql6rvgzldx5vmicx3y2md9g2izjmhagrh5cy2bk",
+            "rev": "5789f77633308931f0297ad3aac3e20435f91152",
+            "sha256": "0ny863j9i33sh8islv4wc1x1k57f8yhspp5h4nlvxyaa9mab1ja0",
             "url": "https://github.com/mweinelt/nur-packages"
         },
         "n1kolasM": {
@@ -537,8 +537,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "b8b3da302e98d4bdbb94b4f05b1f72e0ee7df420",
-            "sha256": "15mm2baf2rj887saify6y0y3nyjz65nkflzd2zgzgf6wf7z8rx5v",
+            "rev": "00a640d11804ee7bbada86750c2d509240eeac93",
+            "sha256": "1nh8b32gqq3aakqfzix4b5c87v1xp0qyzb7103vi5ndpwxr7bf8k",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
