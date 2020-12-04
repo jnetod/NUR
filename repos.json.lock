@@ -6,8 +6,8 @@
             "url": "https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code"
         },
         "_0x4A6F": {
-            "rev": "58c1a84415c745d8cda8ca4708a4808abbaec593",
-            "sha256": "0i9ni5aqcypj1qqgqhpmldy2gf1zqlq0ziv6dgyy1wjy03v5855f",
+            "rev": "1462c208cc5252dcbad4210d47b86042ff37c0ac",
+            "sha256": "0kj8y98rv9mlimnr8pir713qk2klrf4fj4j1prg4l4gpjcx3ksv1",
             "url": "https://github.com/0x4A6F/nur-packages"
         },
         "aasg": {
@@ -202,8 +202,8 @@
             "url": "https://github.com/htr/nur-packages"
         },
         "ijohanne": {
-            "rev": "f5bc1eab15cf17689a60fcb7d0a9ec23e4678a8d",
-            "sha256": "0pdcxj9xd1scr3jhjdgvwh3rxfmrli5n9bk7w7rs09lnzd2212kj",
+            "rev": "5cb8eb5561d6f2928401fc97f80405fc18b905a9",
+            "sha256": "1jvj8rwdicwnjydl6csl37fhn5q02pqdqfjg9ll9c3b3vlk1bvkr",
             "url": "https://github.com/ijohanne/nur-packages"
         },
         "ilya-fedin": {
@@ -237,8 +237,8 @@
             "url": "https://github.com/jakobrs/nur-packages"
         },
         "jbarthelmes": {
-            "rev": "4680745727e33fc7f1efad98f6829c74730148af",
-            "sha256": "03s7idqakxc9glmxjy19qw200xagxmd9slx9n98i360yml5k9rwh",
+            "rev": "64340769e8da95b4289916c9798c902f0256cac5",
+            "sha256": "1xx8h2ylr2bgypwpzaqhq34v80wc1kpd3jdciayc9i9cc75r3a1n",
             "url": "https://github.com/jbarthelmes/nur-packages"
         },
         "jjjollyjim": {
