@@ -202,8 +202,8 @@
             "url": "https://github.com/htr/nur-packages"
         },
         "ijohanne": {
-            "rev": "5cb8eb5561d6f2928401fc97f80405fc18b905a9",
-            "sha256": "1jvj8rwdicwnjydl6csl37fhn5q02pqdqfjg9ll9c3b3vlk1bvkr",
+            "rev": "560e36a2972413eddfd13553cad087bc49706bed",
+            "sha256": "0l8bizhgvxwi1fvqhp0sbdaljza175slj0dxxdmfxls5h13a8nrq",
             "url": "https://github.com/ijohanne/nur-packages"
         },
         "ilya-fedin": {
