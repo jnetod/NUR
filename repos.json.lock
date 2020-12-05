@@ -340,8 +340,8 @@
             "url": "https://github.com/makefu/nur-packages"
         },
         "marzipankaiser": {
-            "rev": "0af522e958abebdae812fc2d12c67d63cf7f3be0",
-            "sha256": "0v7zyzrszz20rzv610scgxd5xvpjrmp5wm4fd74gcc54dg235phq",
+            "rev": "fd851f9e11bef67903082621bac59078d4792ed5",
+            "sha256": "1ck9nncs1171plwinjfw4gb1wzglq2sv1csq7d8ps642wfqrfl0b",
             "url": "https://github.com/marzipankaiser/nur-packages"
         },
         "matthewbauer": {
