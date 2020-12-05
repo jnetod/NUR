@@ -71,8 +71,8 @@
             "url": "https://github.com/bhipple/nur-packages"
         },
         "c0deaddict": {
-            "rev": "0b2f3b5ee3542a554d8c186c69c0d194955904ac",
-            "sha256": "1dkgp3xs6i16cnk7vnn4didw7fr25k3dvvsdwvzlqizcvd5ppylv",
+            "rev": "702958934e74ee3169f0e5d2daf9c70b44fadb0d",
+            "sha256": "0s8xfwznb8l7wzrpzqhh6hs9h6n12i9bg7ajf6y725lvzg4gd55w",
             "url": "https://github.com/c0deaddict/nur-packages"
         },
         "chagra": {
@@ -512,13 +512,13 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "8523503a3a68ab8cddef1df3f2fd9cb9ae677d12",
-            "sha256": "1843mhip504idzhhf8cbqlgbnnkwq0fyw3in066n0zirx0ixj4hk",
+            "rev": "9f90d04b0dc6399fc2d01cf533db69bdfa5dadc3",
+            "sha256": "0xykva6dxrq5a5bmac5lm8r0wjfp1fy5skymnf1zfqjy1wmrkrf3",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
-            "rev": "5df575944bdb5c8a9eecd3f285979f5b6d97cd41",
-            "sha256": "1wbfh4m6q2125c319z9yap1vnpv6fh1ic5jnwfd6kiyv2lzriagn",
+            "rev": "6b70476a40c86fe74b7557fe428bcbbc733bfceb",
+            "sha256": "01gnc3igj2nf3i3kpsbf0nq5gi8gxycvwghfanjwxc9j48lkg46g",
             "url": "https://github.com/sehqlr/nur-packages"
         },
         "setser": {
