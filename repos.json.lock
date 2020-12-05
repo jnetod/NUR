@@ -512,13 +512,13 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "ba5761389a06fa9a24dc0a06a90ca2b1e4802f41",
-            "sha256": "1n0jppgvzbmmipd7vfbci5glc6cwfafs9zxiakd4p4xjbiadsnqz",
+            "rev": "8523503a3a68ab8cddef1df3f2fd9cb9ae677d12",
+            "sha256": "1843mhip504idzhhf8cbqlgbnnkwq0fyw3in066n0zirx0ixj4hk",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
-            "rev": "7d1e9e7587be8e56a6fdc35e5aea636d19bcc93a",
-            "sha256": "1z2hq12szy8z6pqc1jfpifvz7wf4ab4mp4s47yrm9lmf8cbcd4c2",
+            "rev": "7217ff94aa60b556c420302cd4755dc41a095fc0",
+            "sha256": "076jj0mw4m2mcpwwk5zs6xf6ax47ga3f5vyz306rzq37my2nldc8",
             "url": "https://github.com/sehqlr/nur-packages"
         },
         "setser": {
