@@ -517,8 +517,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "6aeb166f6b51ae1392688aebccce47b05215cc56",
-            "sha256": "181592avvlga2fc75630qndkc5syhjhlx3fscmpp6bbvswa9y546",
+            "rev": "b8dfa56af81d83b0ce2cbac3c45a8566d364564d",
+            "sha256": "1giskvwwnf3y5cg8bj2j13crvfczknsq1j96311zpb909jldhiy1",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
@@ -547,8 +547,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "082b9b6ade497906c5daa65cf4197182d2dd839e",
-            "sha256": "0lbsb8bxkn5mcfx89jfzxl7bwz8fr00vk4m383168df50qa1kli5",
+            "rev": "d68875d9ea6ba82c6b8c84381b83da3c09a1916f",
+            "sha256": "0zw75j6hcvd0zkdxy56x7wc6majyl82pvv5pln0qshyk52hrqjgi",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
@@ -632,8 +632,8 @@
             "url": "https://github.com/Xe/xepkgs"
         },
         "xeals": {
-            "rev": "8548791f31dc93c9a37ecf4accfdee4ee6f18bc8",
-            "sha256": "1ybxwv9cmcl3g39vvq6iklsw6gyvfcipvpyhkkqjqj3mk42b9jqy",
+            "rev": "8b2f440b364a4f470d940af4578ec7f271a171b5",
+            "sha256": "0343r2jrjnnldibny225zwnj1rhwjsgq7rbzkrz8zg4r7s36zllx",
             "url": "https://github.com/xeals/nur-packages"
         },
         "yoctocell": {
