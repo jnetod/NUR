@@ -142,8 +142,8 @@
             "url": "https://github.com/dtzWill/nur-packages"
         },
         "dukzcry": {
-            "rev": "d95cba96f6490870312d5e6c5d8b0c43102fe7b8",
-            "sha256": "0az9igi7ds546j3nzj52x11vz71xv9j03apwbwhf21qh409ywn50",
+            "rev": "208b7c879ccb5ce487858aa5486ac9fd4dbcb323",
+            "sha256": "1c7ngqz8j393hx4bhmwzz60wgv0z4zvvpi84bbl3jd0rkvbdnjcf",
             "url": "https://github.com/repos-holder/nur-packages"
         },
         "dywedir": {
@@ -501,8 +501,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "a870a35d60b3eb089b2fd22245d6d37d963d2ddd",
-            "sha256": "0s9zz18fzx7migm3195lif470ywgrxcdfvw64h69a5ii1z79w4xa",
+            "rev": "c00d120b3beb89752181a14ad0da0df4feb306c7",
+            "sha256": "1vm45wvzid3jnlxy6wdncasgs8wp438xaj9bhyxqid6h34wzrbai",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
