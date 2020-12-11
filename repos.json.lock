@@ -476,8 +476,8 @@
             "url": "https://github.com/piensa/nur-packages"
         },
         "pn": {
-            "rev": "147a639fbddf7783d694888dcdaa6938d27a4e22",
-            "sha256": "1dypgg354krdnh684y039k1qwlc1566n69pn100jwg1f7kmbl1a5",
+            "rev": "728c4bd185509a6531c1a95e22f06afdb0b0dc79",
+            "sha256": "13v958p0a6564vml1f6ck5738wkfj0bnm67fks3fyq7n5gjdqjp0",
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
