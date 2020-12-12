@@ -466,8 +466,8 @@
             "url": "https://github.com/peel/nur-packages"
         },
         "piegames": {
-            "rev": "addd81095d95d26d2eaedeee24f4fbae32b192ae",
-            "sha256": "1si9r75ndgmxcma3d9nqsjhwb41i1z95lbfszg9c3pg0a66hxgng",
+            "rev": "6c1e69466bf68c365978528b42c1275f4d5ef398",
+            "sha256": "14nwx536rbjr6r2fs9l2p82lyr407gn5grmarsqw0vprv28g9bgn",
             "url": "https://github.com/piegamesde/nur-packages"
         },
         "piensa": {
@@ -547,8 +547,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "9451f4f8670d38597e84ddfff682932015fb8934",
-            "sha256": "143byvrr9gsp8f3lwsqaj6ncdj2mj8jz3fih9wagxi9rpxkqm5k0",
+            "rev": "64e7ed6a671bb3765ef04e24e6b8438c15c865ae",
+            "sha256": "17mirfb3m4578v2qycgvkvg1c8m3lkg38ql9ady1pzj2n6h2glc5",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
