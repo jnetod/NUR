@@ -481,8 +481,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "eada7c1e54e0428535ecc542b1976054296d744b",
-            "sha256": "0a7nyl4zqpsvn3y36s461xlgr2zh9rgmc0092hkjbrwc86xan375",
+            "rev": "2316bec8c53bcdd17c5c21785bacb2c2d65f6255",
+            "sha256": "182yknwhfxxybw94hvxb1kxsf3y2yqm77x2r59n5nwpa7cmdzf4i",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
@@ -627,8 +627,8 @@
             "url": "https://github.com/wamserma/nur-packages"
         },
         "xe": {
-            "rev": "5402e8caaf95bce1851b6474d7a0b8bdd9f9b763",
-            "sha256": "0jihdlvdj0fqyl2vi9mcnikyjy894v3q621grl33zxiy48vrgnm4",
+            "rev": "e86c5cd4d43df42cb31ac5bfa3d01031a0e51f3e",
+            "sha256": "1zrsly03shj9jm1s66gpv6qrp0bfz8s5ig6qym57cqp9qk8ydiws",
             "url": "https://github.com/Xe/xepkgs"
         },
         "xeals": {
