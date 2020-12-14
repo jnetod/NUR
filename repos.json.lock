@@ -71,8 +71,8 @@
             "url": "https://github.com/bhipple/nur-packages"
         },
         "c0deaddict": {
-            "rev": "31133ca3455f39ff376b9eb4c3d73f23260c2e85",
-            "sha256": "0miiq20vd6wy2ac6wi2lfkwcpl6xkmi6ik23mrj84vv4icllqxbl",
+            "rev": "80e7996d1a6f0774b0b26f2af08e5d5983396906",
+            "sha256": "0j5h2mrmiznx7p45jmbidyg4gdslmrmwfci5f0z00lq1riclw0ns",
             "url": "https://github.com/c0deaddict/nur-packages"
         },
         "chagra": {
@@ -365,8 +365,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "4efb6a1278f0369ac08a9d1383f8c82eaeb77e37",
-            "sha256": "02w8lcv0w5aga1wssw91iq8crz45x85lilldm51sc17if475hyn9",
+            "rev": "663b8ca827960eddd55742113735905cc0198198",
+            "sha256": "1f4pg37z3ipzmns3vgxvhbr6b2s7gmba8mdqkmyzr9ikbbbi1cdw",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
