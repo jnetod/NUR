@@ -476,8 +476,8 @@
             "url": "https://github.com/piensa/nur-packages"
         },
         "pn": {
-            "rev": "501169d7869de2e75596ae001e8954aae5b9a40f",
-            "sha256": "0acr2ab3wdv4dx49anpkw6mss61zzwwcnnz3vkiskh50n7qqrrbj",
+            "rev": "a3438e43f94a0072fdef1cf470efb3af0d3aac08",
+            "sha256": "1vz73s9qlwjv3p7zdpxmw17i1qr0xy3bvzqiwmlizjc82dr9p98i",
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
@@ -567,8 +567,8 @@
             "url": "https://github.com/splintah/nurpkgs"
         },
         "stupremee": {
-            "rev": "43b4d594b93bf1b444ff541ad85fbbac91c2d35f",
-            "sha256": "0z5hh9y5dzi7n8nfc6zlkdj1gaapmk77mf84b5lb601w64nq5h5j",
+            "rev": "76972a2fa990856d307e99b01737f6c6195c39c0",
+            "sha256": "0pdn21ngs0pfxyln3xq7gaflm9w7i06xckyhydiarawj7m1z2yjp",
             "url": "https://github.com/Stupremee/nur-packages"
         },
         "suhr": {
