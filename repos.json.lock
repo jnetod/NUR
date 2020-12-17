@@ -501,8 +501,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "c00d120b3beb89752181a14ad0da0df4feb306c7",
-            "sha256": "1vm45wvzid3jnlxy6wdncasgs8wp438xaj9bhyxqid6h34wzrbai",
+            "rev": "717790d73afeea5977b01dd4e032749237e47c1a",
+            "sha256": "1j95anvzcwyqnkaj136g3fiksg8dc4kszl6rr0xl598fw9d3514l",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
