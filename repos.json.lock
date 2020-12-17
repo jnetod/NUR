@@ -272,8 +272,8 @@
             "url": "https://github.com/JoshuaFern/nur-package-lab"
         },
         "kalbasit": {
-            "rev": "292ff57fbed83356c144bf7b6dd3cf3a7df8695a",
-            "sha256": "195y3fk8an5mkf4bhi98as3lcz63zshgvkd84f7gqsdwm4iwclfd",
+            "rev": "a3bf4c7f901d8e214ff9370deb3622b1f10cff07",
+            "sha256": "14fninhgphak46sg63yzi4rjcvf8rkbz36xpci2x79pygkmvk50q",
             "url": "https://github.com/kalbasit/nur-packages"
         },
         "kampka": {
@@ -501,8 +501,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "bccdf810fd28b2d740e18dd60d48e2a77bdffc42",
-            "sha256": "0ds373gppzrkm2k61zgkbv4lnizah0292r6ymkjifarmd5cw3l39",
+            "rev": "7ce1d18d510178a0bb28da4eb861c9783c323d3d",
+            "sha256": "0p44a7a7i4malmdf4dy40h9hwkg1a27y58126js01znrh0h088w3",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
@@ -547,8 +547,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "04b4e3636b1eefe696f377dacb7c4ba9e8d61b8c",
-            "sha256": "12psqx3glmrb1w68gnx5n6jidqba9jwm3k7wqclixgpfnvj4bq3j",
+            "rev": "24eb28c137c933b9bfa0ffbc48cd6bf47c8f49e6",
+            "sha256": "0viy9h9p0nqql1qpgfba6k0jjz9dxv714d6z5nwawm4wpaib50sb",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
