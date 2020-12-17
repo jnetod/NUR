@@ -355,8 +355,8 @@
             "url": "https://github.com/matthewbauer/nur-packages"
         },
         "metadark": {
-            "rev": "56399c73ea629c7a06c80023bc9b6aa11a29ba63",
-            "sha256": "0d2jirgd18h48f5qjkm4rqjscic3rjpaj3mkddr907hwnc6ys2cm",
+            "rev": "24464e2d667924428f497e6cda1278b01c25b09a",
+            "sha256": "0ynqi9x88sbjjshpczxj7191537rygq5i96mjc7x5sk6513dnn4s",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
@@ -501,8 +501,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "717790d73afeea5977b01dd4e032749237e47c1a",
-            "sha256": "1j95anvzcwyqnkaj136g3fiksg8dc4kszl6rr0xl598fw9d3514l",
+            "rev": "bccdf810fd28b2d740e18dd60d48e2a77bdffc42",
+            "sha256": "0ds373gppzrkm2k61zgkbv4lnizah0292r6ymkjifarmd5cw3l39",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
