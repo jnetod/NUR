@@ -6,8 +6,8 @@
             "url": "https://gricad-gitlab.univ-grenoble-alpes.fr/Projets-INFO4/18-19/19/code"
         },
         "_0x4A6F": {
-            "rev": "f2b70d308ce0975955eebead1bad02692db7b9f1",
-            "sha256": "04aq8bkv21l9wrjc1dg30wjr2n4j5z3mibx59m8f0gk0a5czyxaq",
+            "rev": "41e528fc921a743666829f96af438af7a4609b2e",
+            "sha256": "0zybgw7991zb3mccg97l447l3ncncrm01wkb8h64m6qckl2l29a6",
             "url": "https://github.com/0x4A6F/nur-packages"
         },
         "aasg": {
@@ -517,8 +517,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "42b65b9554c2ff23b4b7ffda5dc981b9ff06cb7c",
-            "sha256": "08jcfgy0f6ylm3ci7bfkfpjn8apnwfhhgjrqgqbnibxy2pbixk06",
+            "rev": "2b54fb43660507df8d14ab92267d00b8ec76ac3a",
+            "sha256": "1qd6ksxx3nsyzi446fgd8n7rd4pfmh2k3ivd9x2dgsv2n44d31w4",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
