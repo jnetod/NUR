@@ -26,8 +26,8 @@
             "url": "https://github.com/angr/nixpkgs"
         },
         "arc": {
-            "rev": "d68f3dfc3ac6d2c9860d53f7a210f4376b6f1a49",
-            "sha256": "03sqz0qr7zh5jz389xas1133qrvn1jk0kh9rnisxlcnbzhx89kc7",
+            "rev": "747b5fd41774a6c660b85d6261feb44e6629c0b7",
+            "sha256": "069i89sy6sxnv2clgd6vlagrv6c9q91xrlwixs83llxxrkl1wrsv",
             "url": "https://github.com/arcnmx/nixexprs"
         },
         "awl-fcarza": {
@@ -517,8 +517,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "06027e8032ed8a1ccd488f272d6a615a6ce99fed",
-            "sha256": "1z5jxcjiwrqlhbxjzkwp4lnwlrllcc7l4pl6f7rbhvpnnylb5m6j",
+            "rev": "16e601132682f8c369dccfc8e95cf5fc02198b65",
+            "sha256": "0rn6y8xnks55rc2xi7j36ccc8g53jig1803jlm0rvvcvinpnpp11",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
