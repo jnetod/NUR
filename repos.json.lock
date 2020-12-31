@@ -365,8 +365,8 @@
             "url": "https://github.com/matthewbauer/nur-packages"
         },
         "metadark": {
-            "rev": "a5683b97d8868ce1fe722b54df0069e7c161a814",
-            "sha256": "0a35nvhgvdr73vgxfh4xsd72zrl6db7li2ikvdirhb8v40dd6cc8",
+            "rev": "7f05a8c82358d5581e2e6e20ba4aeacfc06d0078",
+            "sha256": "1xqh3rsgqpg3a38siw20m2xnybiwb3nfimv2ybv27lzwrqmksbs1",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
@@ -446,8 +446,8 @@
             "url": "https://github.com/neXromancers/nixromancers"
         },
         "noneucat": {
-            "rev": "7b9a1912b3ff32acb722b638c145c374e6dcb237",
-            "sha256": "1l2p37xp9y885hnjg44sm4xwxnjibv7qyxpj77n47j8ahwplj9dq",
+            "rev": "e752ed2ad4a6f7521d2ef212e9b713854bdfc95e",
+            "sha256": "0g632ifbfwy8micqc735p4pgfvigwiwgwl7bds0bg7qrkidhn59l",
             "url": "https://git.sr.ht/~noneucat/nur-packages"
         },
         "novafacing": {
