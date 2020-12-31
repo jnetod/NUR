@@ -207,8 +207,8 @@
             "url": "https://github.com/Gricad/nur-packages"
         },
         "htr": {
-            "rev": "9726be3b927755170d7fc0b06f99e49496e19e66",
-            "sha256": "18y6ck4gl1wp7bkmwkcxa8nh9jhyykbslzkpp3qq0qydhdzc4pp3",
+            "rev": "49bb48aa7095b105483883c161eb19be3bc27ab8",
+            "sha256": "196xyri0g9s84y2l6cynahrga7jwzvyndpiigxpbx9dml9m5dw11",
             "url": "https://github.com/htr/nur-packages"
         },
         "ijohanne": {
@@ -537,8 +537,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "d93ba81e74f29c337c56f7922a7c4dccf62e0f0f",
-            "sha256": "1pvd30apzpjqh5wfbbz4lccsd9ga49k1ivhdn5k5y4cgkf63ammr",
+            "rev": "2ce9f3a4a02292f42a13d07b7e350caeae375207",
+            "sha256": "0jgbn602qwkvxp8957b8damz6y4cd2q53jfgqfzwlj3d3x9iyna7",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
