@@ -385,8 +385,8 @@
             "url": "https://github.com/mmilata/nur-packages"
         },
         "moaxcp": {
-            "rev": "01035dd7f21ee036421d3c581648dfa8bd3a5fda",
-            "sha256": "0z4a73c33wh6bg5kfl6h8m6q3y0xl3mj1aq6fkicq4dkyv8kn4b5",
+            "rev": "e580a33982a1f44e5f0809a184609a3301674ef2",
+            "sha256": "1f3g705pc7i8qn3plgag9vkkc0673ci7a4zbj3b1xmyfdrsawjva",
             "url": "https://github.com/moaxcp/nur"
         },
         "moredhel": {
@@ -501,8 +501,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "01ca762ffa3d6f801aa058afe5aa02033dc96a0e",
-            "sha256": "1sibk3z3dz7h2wz5fr6j4mr1ddgl6qav0x1q52dxrd13vhphsbdp",
+            "rev": "ac56f1fc30b3961b1617353fcb2c02b4d5375183",
+            "sha256": "1y26z4i9b3w6xcq7zsdma93mqfx7d4yvcz4sy0s3jliqscyx6wph",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
