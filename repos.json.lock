@@ -521,8 +521,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "e2eb8b9bb5cd2727e99e748a87e8fef654360a48",
-            "sha256": "1b3gansgim2gcr8wmg46g5prl0lawbsg48a86vh23jvb279mqshs",
+            "rev": "228272a150ededea20ac2ec1600d60377291cb0a",
+            "sha256": "1b632kd0cjwc8vxzd17psz2hbl19sg3na82rww8xxi87r5ip05j1",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
@@ -567,8 +567,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "e456da8fbb0c82f7b18e45a0d9e49b07082aea97",
-            "sha256": "08h6jhavp1m1wzn69rynzri1giz2llbk5dkzb8cqrl0bb9rv2mir",
+            "rev": "48d10e32e5bff957cee666d9d3fb607d1733d7f4",
+            "sha256": "1yj33kp4q6fi6lqmnlrrxq915wg8mrjxd4d2i53rsccyb207g7ai",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
