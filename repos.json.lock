@@ -385,8 +385,8 @@
             "url": "https://github.com/mmilata/nur-packages"
         },
         "moaxcp": {
-            "rev": "97e06c6be534acec6fdf7e5046c20db71a72ec20",
-            "sha256": "1a6vf5fij76kvaac1ygj3c91p4r8c784jwvkrak6zcii6z8ppfsq",
+            "rev": "883a77917b48a25cf0898010a23eb9c7e02e0ac0",
+            "sha256": "1nd5skyxzfjrpq508cms411pll35jlmiq89bi3bnasb7pfdhhraa",
             "url": "https://github.com/moaxcp/nur"
         },
         "moredhel": {
@@ -537,8 +537,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "2ce160eebe1eb0c951d49752864cc69f08afaa16",
-            "sha256": "0r0r9qxxq9198724kkm29rlzrs4rc2mg78c2icqwwid01gd5ygnb",
+            "rev": "4a3955276f0ec9322f9b6a33382ac8e9d2cf622c",
+            "sha256": "030b52cvmfpw1v7pihyjydp8bx5g5sh0iqj9pcnl2345lz5ndrna",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
