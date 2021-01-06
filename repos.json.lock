@@ -375,8 +375,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "0e10b3fbba362c5a5afe72e40f8aebad79ca7c31",
-            "sha256": "0dx0h0izcdpxs6hgbhpzg6p24mcg7xdw7dxgjg8gjxy5wc9nnsbh",
+            "rev": "e24b00b812f4a65d76eddc25ffc1431804c36636",
+            "sha256": "1vjkf3ygp930qac8ccscrj0qdvr3ap5xilaiz6hbm26xr6f6phns",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
@@ -385,8 +385,8 @@
             "url": "https://github.com/mmilata/nur-packages"
         },
         "moaxcp": {
-            "rev": "883a77917b48a25cf0898010a23eb9c7e02e0ac0",
-            "sha256": "1nd5skyxzfjrpq508cms411pll35jlmiq89bi3bnasb7pfdhhraa",
+            "rev": "5ecba79a7aeea6e482a2ec41a6804da7196769b9",
+            "sha256": "0l61v81xzrf8yjw2204rzag515y70bm5yikiyq66ls74w29wf0w6",
             "url": "https://github.com/moaxcp/nur"
         },
         "moredhel": {
