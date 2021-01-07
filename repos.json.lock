@@ -137,8 +137,8 @@
             "url": "https://github.com/divanorama/nur-packages"
         },
         "drewrisinger": {
-            "rev": "b403bc61713408ae342ee4be5fc1fc3fa86ddd1a",
-            "sha256": "1nr5m8nq7xi5z525yrjbq24k6sjqqhpk9r1gr0rnbfiwscpyvyrk",
+            "rev": "366844eb0cd47728dbea6da79f56fac5a02c4de6",
+            "sha256": "1d51v0jwvsrix5ahzr4ipfgg9fx3h4qrbwb95946lxm39m9da2f5",
             "url": "https://github.com/drewrisinger/nur-packages"
         },
         "dtn7": {
@@ -237,8 +237,8 @@
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
-            "rev": "25232ed987584f0fe920ac0e9f65dfe3bfa84d46",
-            "sha256": "0f58561qi04h2a5wkayndglimzrnig8f6w7wji58xz7a1hv1cdjl",
+            "rev": "2ead7a8d316cf0960cce6ad73a7d828403bbdf52",
+            "sha256": "1f0mjf7l55mijp0dh42c40j19mh4idg95ywjd0kxw6w0z57miwif",
             "url": "https://github.com/Izorkin/nur-packages"
         },
         "j-k": {
@@ -365,8 +365,8 @@
             "url": "https://github.com/matthewbauer/nur-packages"
         },
         "metadark": {
-            "rev": "f55222e588eb2d21b3d1d10ae0727bcfee8f2e50",
-            "sha256": "0yrr1ig410n740d6pczi9wd60c0rcvm5bwg46min2jw6lqlypxap",
+            "rev": "d2ed2a680bac48e60f4ac331e6874f15be2ba3fd",
+            "sha256": "11gr34ad53krd6gjq1xmr1cjylx5xnjr4g8lyl82xnv0m6n1jdhd",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
@@ -501,8 +501,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "1adc98ad32b4c6fab4be63d04f4a9a7730d0f06f",
-            "sha256": "0rllwqyq446vcm2yi2cb50v6w05x2lnzzi3dak4kysq36nnk6ksk",
+            "rev": "ffb40111dcec334fccb1323f876f093c5b40751c",
+            "sha256": "0mfgwlsnx1wgqynwjkdnv8hqlz7h4nhxxfafalk1pca25ja7jryd",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
