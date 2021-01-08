@@ -1,8 +1,8 @@
 {
     "repos": {
         "0x4A6F": {
-            "rev": "473d39b5c494e92538f806d76f28a9d35fda86f9",
-            "sha256": "0qrf9nvhvxk4alaw5rfvswa08bj835fqknjvj9075gjamx82ykr1",
+            "rev": "ddbe4151b0dba1d7221051a07c0d6e603f99867d",
+            "sha256": "1xrxs6da849jdjxlah3z4j37p6nzm7n78k5lihilzh3lflxdlxcj",
             "url": "https://github.com/0x4A6F/nur-packages"
         },
         "INFO4-19": {
@@ -172,8 +172,8 @@
             "url": "https://github.com/emiller88/nur-packages"
         },
         "emmanuelrosa": {
-            "rev": "c618555df56ca5bb2f3ba4320553760a4d61f4ba",
-            "sha256": "1yy7sl4padlvslvkn8n226adznnzpr0pkvndj2zndfbw8ahlh00x",
+            "rev": "e8a1b5485dbc1228177cb3cce2f38078f89929dd",
+            "sha256": "0r464p7hgxy2ynj0f71kbz9x7i74aggxr28ci506bidfffwl1pnz",
             "url": "https://github.com/emmanuelrosa/nur-packages"
         },
         "extends": {
@@ -365,8 +365,8 @@
             "url": "https://github.com/matthewbauer/nur-packages"
         },
         "metadark": {
-            "rev": "d2ed2a680bac48e60f4ac331e6874f15be2ba3fd",
-            "sha256": "11gr34ad53krd6gjq1xmr1cjylx5xnjr4g8lyl82xnv0m6n1jdhd",
+            "rev": "a4e458abd9a479e2239e8dc0ac305f8ca04cc8a4",
+            "sha256": "1ng4c6l7pd1fm0xgrz1cdf2hv66znwgp045vyzps6qnnqrxs4hvi",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
@@ -521,8 +521,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "228272a150ededea20ac2ec1600d60377291cb0a",
-            "sha256": "1b632kd0cjwc8vxzd17psz2hbl19sg3na82rww8xxi87r5ip05j1",
+            "rev": "33759416701a8e70bdf78b45ba5c30a32a1c655f",
+            "sha256": "0hwxh522wfvw5cm1m5dfg6gha7gqjzhm69kica785d7s532zy97x",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
