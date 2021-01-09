@@ -365,8 +365,8 @@
             "url": "https://github.com/matthewbauer/nur-packages"
         },
         "metadark": {
-            "rev": "9e243fe008eed88d4be01c57bdd2bac2affa2552",
-            "sha256": "01hm79klajka4l9426n63ndw5dlz5z04h90qiavg1yyfv6q97mg0",
+            "rev": "f589910d795a5d1462a49e2e17fa96a0df94dbeb",
+            "sha256": "0x8jm0c9682bf3dhk1k5x9f4k092rg99cbzz12sk4dsgs63z5nnw",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
@@ -474,6 +474,11 @@
             "rev": "67e3db0fea9fe3f54b65ec1ddac5b018f99662b2",
             "sha256": "0fa1nyihyfs421wx732znafl656rr0nhd9k52ld7hqan7k6kyn38",
             "url": "https://github.com/otevrenamesta/nur-packages"
+        },
+        "ouzu": {
+            "rev": "e7feed2b03051948af8777d37919272e85b80eb8",
+            "sha256": "1795k0jxz5flznmnwpn781swrx10n7scyd5yly1lay7hh315mi1m",
+            "url": "https://github.com/ouzu/nur-packages"
         },
         "pamplemousse": {
             "rev": "38029c7adaee5c4f0a65e01271c57e804eb86e9c",
