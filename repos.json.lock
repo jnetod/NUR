@@ -132,8 +132,8 @@
             "url": "https://github.com/dguibert/nur-packages"
         },
         "divanorama": {
-            "rev": "06aededf41f5fd84d0695ed4a351d6b48532c985",
-            "sha256": "0006yvg29a2ha43gyw69a7wkjl6d89ygly99n3cqnx0mpr3aivqr",
+            "rev": "ba3ff9a4f2b7f5d670ebe11ff95563427d6db179",
+            "sha256": "1wc8bhhn4a8xcb2wff74bc9mg8zc0cnwhiif7g85vlww218y6ldf",
             "url": "https://github.com/divanorama/nur-packages"
         },
         "drewrisinger": {
@@ -506,8 +506,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "53f6717601622d7c7daeafb3fc3461fd91894c9e",
-            "sha256": "1v61h59bf1qcxglxlmmxv5rl9y1dhcjxpyp8cj54i7dh9b44x1ch",
+            "rev": "cc06fc3fb53a21853b91b22f8cb4ce7bb1efeeff",
+            "sha256": "1ldrji9m7h090xqx03grxa7nk3v8078j38wj6hmhkls43dwa8r5s",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
