@@ -511,8 +511,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "a822c7e849146b610dcf47a62df4d52eaa488cfa",
-            "sha256": "1rbdmla3rnx325wk1xyf3n6sx450q2snm42wxkqwz1sg9zrqfqbf",
+            "rev": "d3f9d99de03908eb2c004f630d700c5701bfbbee",
+            "sha256": "0g3hmmwsx8p89l8sz8qmnpnlk9v0lwm8kh5d8wnj28zzm18bl3zd",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
@@ -572,8 +572,8 @@
             "url": "https://github.com/Shados/nur-packages"
         },
         "shamilton": {
-            "rev": "95964e774df68cc9b9cf6a1b40eb18e4de9b5be0",
-            "sha256": "04rsfjldv2j12av5cxhwd1ddb0x18fhs792vi12skmbdwr2b14xa",
+            "rev": "2f203487e33801cff87e04a9f7f9f6f433707044",
+            "sha256": "1blr2m34maidy4zkjnj59lsb3ss017viijx6f5b28cscjjqfp9w6",
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
