@@ -106,8 +106,8 @@
             "url": "https://github.com/CrazedProgrammer/nix"
         },
         "cwyc": {
-            "rev": "be7de41251fd098bef706d71f48ca9a1563a249a",
-            "sha256": "0qhpk4zw1cbxa3m3qak5b5z57h9zhd3hq0gkydrr7q9shr5xlkjx",
+            "rev": "39a468e5d4fb6677e4cb379648768d2cf225307a",
+            "sha256": "0jba1p056nc18x521800dis16xciv6ngsxmfxlvv34gq0anxli46",
             "submodules": true,
             "url": "https://github.com/cwyc/nur-packages"
         },
@@ -380,8 +380,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "e24b00b812f4a65d76eddc25ffc1431804c36636",
-            "sha256": "1vjkf3ygp930qac8ccscrj0qdvr3ap5xilaiz6hbm26xr6f6phns",
+            "rev": "3a7a00fb5e2bde4bd9d03409df680809c0d552ff",
+            "sha256": "1xazhbj15mis772zfxamxsipqnpd0jfdslgsm129ys7h51d7si90",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
@@ -466,8 +466,8 @@
             "url": "https://github.com/nerdypepper/npkgs"
         },
         "nprindle": {
-            "rev": "0dab62d3d0b0db448b46084ca358990358ecfeaf",
-            "sha256": "0p9l3lqmrc0lk89kiww6xlzb21r99yw8l6rb54nksn0nywcfwdc3",
+            "rev": "ac49fce4b8d50e295ce3c16cad475d9f66743474",
+            "sha256": "12mykbngnlz9j2xw10jpz4jbl58k2v05nvnkx64qr8zshf7nafm0",
             "url": "https://github.com/nprindle/nur-packages"
         },
         "onny": {
