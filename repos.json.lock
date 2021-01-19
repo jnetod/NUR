@@ -137,8 +137,8 @@
             "url": "https://github.com/divanorama/nur-packages"
         },
         "drewrisinger": {
-            "rev": "b6c2f4c937a0c52bb33419c09a106652ab7be259",
-            "sha256": "0w4mrmad90jp97xll2bzj0j4nv7vz9xp49ajgcwvlbkv7dh41n1m",
+            "rev": "95c1c16400502f244c0886766505a33b9a721c0c",
+            "sha256": "0nninyhyk8ibxkscsfb8kxskf16nb0sazml9a61z6dqgs9hag7xz",
             "url": "https://github.com/drewrisinger/nur-packages"
         },
         "dtn7": {
@@ -577,8 +577,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "afbceca11efe60928574565a494304a2a7398393",
-            "sha256": "157v5gm038bfyb7mvvi4cqsnr3k6hnxz9yrmy4xkv1prknq8f1ln",
+            "rev": "3f8d1e15df15a8448c0d634168a914a174b78e96",
+            "sha256": "0cndcgyy6pn1b8f4q2ia9ii8mgy9wkn7517h6kx7w72mrci5vngn",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
