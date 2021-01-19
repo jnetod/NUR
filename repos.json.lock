@@ -451,8 +451,8 @@
             "url": "https://github.com/neXromancers/nixromancers"
         },
         "noneucat": {
-            "rev": "3c9dd1d1b2c3a187e1ba9a8b926df6400af162fb",
-            "sha256": "13fgimxj6j729871hzc9jk28n7gh1n1d7dssgibgycrihsdv78xg",
+            "rev": "9d2c3182eb21f16b600f27c082efc489744d5cc5",
+            "sha256": "1aklp59bn68g5lwpg3kbkg238za20p4vhvhqks5g9df631n9gflg",
             "url": "https://git.sr.ht/~noneucat/nur-packages"
         },
         "novafacing": {
@@ -547,8 +547,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "29f6ff680259dd49e5fb00bfa4618dab96722808",
-            "sha256": "0426dwvggidmqlfwvr7kz52wm99v62va39vrn66jr2zkgzkwx1h7",
+            "rev": "a05b0c43d6f89f5722e2c642deebea31ceaa7ad2",
+            "sha256": "0fwcr5zi94naxx1hdyx71h69vshvbh0432yqbcax66d88jmjgv44",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
