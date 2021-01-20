@@ -157,8 +157,8 @@
             "url": "https://github.com/repos-holder/nur-packages"
         },
         "dustinblackman": {
-            "rev": "345836a4c557ae0025207bc808974f1a2d1c1270",
-            "sha256": "1ccv3l2q35clxsfbp47kp5cncqdxc4ga55c7amzngldmiadzw92f",
+            "rev": "aefc863e0a603233dc5486bcaa6218969fb53f5e",
+            "sha256": "07yxsz9jsilz4w6wlh7kh8ihlqp5yg64b9n93pn3w5nzn7gn4nn5",
             "url": "https://github.com/dustinblackman/nur-packages"
         },
         "dywedir": {
