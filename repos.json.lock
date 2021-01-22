@@ -516,8 +516,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "9d49bf6ca12ec8ed3c44bd0b68b04f05a8e78db9",
-            "sha256": "1czhpy6z1wmcrh211x98j8lm7ara9mgbpi7gzw9yrfyywdqdpr4d",
+            "rev": "c4f191ea3960e625c7bfaf952443ee8fce93aade",
+            "sha256": "0s8sa2gmbn0r58cx53yh74n5zl2mzsc6kcvspqwcafidq4i23vj1",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
