@@ -137,8 +137,8 @@
             "url": "https://github.com/divanorama/nur-packages"
         },
         "drewrisinger": {
-            "rev": "f5b295e460a7d2195612276acf53c3c158d6ea3c",
-            "sha256": "05mjwsn3z7kk05ihkz1lapdbf043qy9j858n6jrvqv7z7g2ycxpg",
+            "rev": "2c27e4bd01add948d454a3e5cd79b01f1489fc01",
+            "sha256": "1kk36gmda4wb9a03z91g0vm6gpc9ly3lzv6nam1gwcglpk6rnsf1",
             "url": "https://github.com/drewrisinger/nur-packages"
         },
         "dtn7": {
