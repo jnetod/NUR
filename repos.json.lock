@@ -385,8 +385,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "ce556757bfe996419ff0b33ab81f4a2d72f53799",
-            "sha256": "1mswrfbx836pswlmn894jamyyxmp16cdkwscralapnqyl542ync4",
+            "rev": "a9c2428f4556c3635c4e9c3cc023dc95e62fe914",
+            "sha256": "1k7idsk4gpqpvfl6cdxx1wwx8n14xxzbghq8f96cnfyl2dmkcxfc",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
@@ -582,8 +582,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "d8d4d0696d41f8fb51025af160f9d31c9f959cd1",
-            "sha256": "1xm8nqysiibclf4vpdlgi2mrf8ajlp6j3cnlppmpdx23c2ibvs2z",
+            "rev": "88c6b8d9e99a5194cb72c7d1e4645b24686f6120",
+            "sha256": "0jn2y2hqzv1aijjzh7p8lqp3mgmaa6lsw9l7cg3gb13rg54g9qzb",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
