@@ -385,8 +385,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "c4443dffebd5f16b6c5494cbcd2f663c303e7262",
-            "sha256": "0k7wfxzydf6v2353rf7pkcrqvlsblal1vjaqshz5z722q4ik4fys",
+            "rev": "f3915a9c6a7f0fa81029617b38fdcaf00d274c4e",
+            "sha256": "11dnxzhhk18x5il9klzq9pg85w03ax85sgswxrdi87aj96wzw9ah",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
@@ -405,8 +405,8 @@
             "url": "https://github.com/moredhel/nur-packages"
         },
         "moredread": {
-            "rev": "4f14d781cd42f11d00825f9f1c49fdd37c6f350a",
-            "sha256": "071b43zk0hq6hn87ffm08yzgxvq2gawqz2y0nypbrg5ldk1hyxb0",
+            "rev": "6fb82917ab66397d906d5f3dae3e39b8e28b76db",
+            "sha256": "0x9spcv30jiji9ldh2nirxiqflw0g03k6k5piqbw65vpj37hhy18",
             "url": "https://github.com/Moredread/nur-packages"
         },
         "mozilla": {
