@@ -385,8 +385,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "75e2ede1375431ae774906ec756872e456c005bc",
-            "sha256": "0r1kl2j1hpg9332p136yjqypyaav4lzzkz0mgr36s2v1ab5pypli",
+            "rev": "ec2e4b02554af79c7e8a9c5e1aff14f62a1b1b1f",
+            "sha256": "1vy6pk21s5k2r0c9n3wnd5k1hszx12nv44b0r2h5a1qhc1za2mwm",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
@@ -552,8 +552,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "2d5ece17be180bd4e9ef848a7093dc1dd5a9dd00",
-            "sha256": "1lwdjqwv4g98ir63ij46jh0z8jfdnwhqs44i2gsg5msl4c9483af",
+            "rev": "c242001d59c252dca6c0592fc3ad77856a5cb69f",
+            "sha256": "1w8nk3l4y882anpjnz7phhkaibxss2psy1fqijzfa04f9w0qf881",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
