@@ -142,8 +142,8 @@
             "url": "https://github.com/drewrisinger/nur-packages"
         },
         "dtn7": {
-            "rev": "84e094728c33c1f04b9c914adcbac5d9db4417da",
-            "sha256": "1fwymq22fr63887mpdgyv8r6pahd026j1s5xp2yzqpwbm3g651j5",
+            "rev": "f8d07900fa12508bb9133a3b9fa91432a01c2b60",
+            "sha256": "0yp8b61rj3x3g2rq4izynw1cfgz2la517ghgn454xy3515jyf5lz",
             "url": "https://github.com/dtn7/nur-packages"
         },
         "dtz": {
@@ -385,8 +385,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "33127cde7cfe60ec6cc172d416c6805a9bf67b83",
-            "sha256": "16l405g357w9b66kp8ybcccqga5gfhhs1xpzfbsx5rga9g5gd1qz",
+            "rev": "75e2ede1375431ae774906ec756872e456c005bc",
+            "sha256": "0r1kl2j1hpg9332p136yjqypyaav4lzzkz0mgr36s2v1ab5pypli",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
