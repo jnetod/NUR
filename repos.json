@@ -13,6 +13,10 @@
             "github-contact": "AluisioASG",
             "url": "https://git.sr.ht/~aasg/nixexprs"
         },
+        "afreakk": {
+            "github-contact": "afreakk",
+            "url": "https://github.com/afreakk/mynixrepo"
+        },
         "andersontorres": {
             "github-contact": "andersontorres",
             "url": "https://github.com/AndersonTorres/nur-packages"
@@ -157,6 +161,10 @@
         "extends": {
             "github-contact": "ImExtends",
             "url": "https://github.com/ImExtends/nur-packages-template"
+        },
+        "fendse": {
+            "github-contact": "fendse",
+            "url": "https://github.com/fendse/nur"
         },
         "fgaz": {
             "github-contact": "fgaz",
