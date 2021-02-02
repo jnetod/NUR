@@ -262,8 +262,8 @@
             "url": "https://github.com/Izorkin/nur-packages"
         },
         "j-k": {
-            "rev": "4cb263892a0251f195076386156d3abc8ef6f74a",
-            "sha256": "1j2pr4acj65gi59fda5ia0ggl41k1zszpb1fddhz20clsacd4cky",
+            "rev": "932d6ec94f07e5caa03d6f50a0233946adf887ad",
+            "sha256": "0n1n12k903svqywhrzrp4mc2b00q7fi7662hqds1720hzqfw664s",
             "url": "https://github.com/06kellyjac/nur-packages"
         },
         "jakobrs": {
@@ -562,8 +562,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "f8c919a44364fa13c6e5421e5a8d869e7284e844",
-            "sha256": "0r1b4f3pgrpqcvaql74llr5k8an6yrnvqjr5ia8y647h99716943",
+            "rev": "b73c4847cab359552ea8aa7a3a9f405385b25bf3",
+            "sha256": "0w3v7jk3zsx51lqi903zh79f232k3j803sbyryw75ky30xcd516j",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
