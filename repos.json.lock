@@ -106,8 +106,8 @@
             "url": "https://github.com/cransom/nur-packages"
         },
         "crazazy": {
-            "rev": "38740775d7eeb8b9b13a0a7c3d877d6ecb929389",
-            "sha256": "0nwfmchw7mdngc5nncd1xca4wfl0q6mmd301y40x27ijg2h345wy",
+            "rev": "2d7ca49143550166b4c6aaa1b126403dee15df63",
+            "sha256": "1a501hzrdq5qjngxilpffkqc2ij8fn383fdpzysm6gq97ipaasqh",
             "url": "https://github.com/crazazy/nixos-config"
         },
         "crazedprogrammer": {
@@ -572,8 +572,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "6c507fbfda9157e7bb6480042d8d095ee2b88a29",
-            "sha256": "11lh2z49jyi1l62hck3akacl4fqpgs1angh14gcjwj9j17qc43jf",
+            "rev": "ada15e0e739fb20cde8ceb6aec1c358b16e82762",
+            "sha256": "1cbgrcz3a2f142hff3v724l2sn7nasi5dh3qpm7biszpkrnyl016",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
@@ -687,8 +687,8 @@
             "url": "https://github.com/Xe/xepkgs"
         },
         "xeals": {
-            "rev": "3dbd760954dc94e488f9d317702afe896e1c2f09",
-            "sha256": "0h0qdz5npzcrmc8bpwap9yvn5svvbrvl21jgq06gabj81f41n73l",
+            "rev": "86f171363912d173f7e4996d53349d4b9b6a2b76",
+            "sha256": "1k6d5nm12qkfvdjk6pxwsby3k6v9gnh7hidpws42hj9zz74kgqm8",
             "url": "https://github.com/xeals/nur-packages"
         },
         "yoctocell": {
