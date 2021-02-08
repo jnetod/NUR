@@ -1,8 +1,8 @@
 {
     "repos": {
         "0x4A6F": {
-            "rev": "15b48b45794c94a4372808dd41b31f18a90971db",
-            "sha256": "1szrwsq6f2fai5r5l1wnrpjlb09rip3l1yy7bf556v24lz97488i",
+            "rev": "d6c06853a20691f880d2603888f018b33ac43350",
+            "sha256": "18gzchnvs8jj8x5nbm8vm6wm3ckfwly4n3zh97pn414y6binr2ad",
             "url": "https://github.com/0x4A6F/nur-packages"
         },
         "INFO4-19": {
@@ -456,8 +456,8 @@
             "url": "https://github.com/n1kolasM/nur-packages"
         },
         "nagy": {
-            "rev": "d92e0b834fe0b2c4bda35458af29fef0dfbbc0f5",
-            "sha256": "1qpq02715qzpz7jndmsha58vffi1z2r56s40ya36wcg6h6vmy8n3",
+            "rev": "e4a3c350e9fd92914644df02601803953b415704",
+            "sha256": "04yfq69b0bywb16xnvkhxyvm8b2ngdggr96crabdhyf4kwbmfvkw",
             "url": "https://github.com/nagy/nur-packages"
         },
         "nasirhm": {
@@ -577,8 +577,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "6f45f3cdfffb129de144c840dda25bed870057d9",
-            "sha256": "000b8bs17nal888q9ljma1d0jcw08l5ddgnmdycz24k3xicjacy0",
+            "rev": "fff4b23397d2d1fdb6a82d2ec0d1d9e7d99408a6",
+            "sha256": "1zwwwdlxywc6hf4sq9wgd2dwiz0bcr6p4w052zbpbwzsyk72a223",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
@@ -607,8 +607,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "adb0938e2e4133296fd9bee65a58696b3c2af153",
-            "sha256": "0wyhna75cf9dqv7qkwb13mi20mg5479hjwadkps9vcn0w3bksaqi",
+            "rev": "db72b65e6ef2b3c578a403cb2eef063975f4dafa",
+            "sha256": "09qnf2dszqwnq402mmip9q2y0l8ka9lvq60sd4ghijrv0fjnbjvw",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
