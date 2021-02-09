@@ -147,8 +147,8 @@
             "url": "https://github.com/divanorama/nur-packages"
         },
         "drewrisinger": {
-            "rev": "10649b8c8be82f990d21051410f10226df750f08",
-            "sha256": "1i35w6zcqq7klmnh553d64z8m92sym3x54vavkmgxk6kw92gwplv",
+            "rev": "b1f6fa414757783e014dd593b17789297f0cdf9c",
+            "sha256": "02idq664pi0h56nmwrgly9hflpvmphl9cjghrsch31w3w55qb7jq",
             "url": "https://github.com/drewrisinger/nur-packages"
         },
         "dtn7": {
@@ -227,8 +227,8 @@
             "url": "https://github.com/gnidorah/nur-packages"
         },
         "graham33": {
-            "rev": "cac2fedbd4f8af9802cf8a928cbd84226eeab92c",
-            "sha256": "01xc2hc2xh9bzbqc923nlw1rdivgg4kq833p09821gdzm1ab4fgh",
+            "rev": "e12b6cda5c5feda1bc90a3d908b31bbb9e2d3577",
+            "sha256": "0vi2lbpqixnniizkq3rfm3a15n9i9893kxzj0iy7yj400rg5xw21",
             "url": "https://github.com/graham33/nur-packages"
         },
         "gricad": {
