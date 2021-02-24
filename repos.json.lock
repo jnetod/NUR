@@ -197,8 +197,8 @@
             "url": "https://github.com/emiller88/nur-packages"
         },
         "emmanuelrosa": {
-            "rev": "f067d85f2f177afad92cf946511d103d7a7bbe9c",
-            "sha256": "0janqai64xk4nn0hsqca270jnzzxlwcix22h480xp69z51s5llba",
+            "rev": "1cd28357163ccb419f4459a73df38c5adb799f57",
+            "sha256": "18228wl7snvzw63jsnfvclcckv1fs132al31q00013ls53pgna89",
             "url": "https://github.com/emmanuelrosa/nur-packages"
         },
         "extends": {
@@ -232,8 +232,8 @@
             "url": "https://github.com/gnidorah/nur-packages"
         },
         "graham33": {
-            "rev": "3fdd9c2c0a36050f7e3f415f9d9084709decf159",
-            "sha256": "1qf5x7413mp10almhmgy6nzr7cgcvnrj2xw2rhq5amwn8yww5axl",
+            "rev": "47122481dc911e1fd68633b280c968e1509a5c75",
+            "sha256": "07y2qrdx67jyd4a42d4k11d19rhq41prr08yqirhkfxdj48nd89g",
             "url": "https://github.com/graham33/nur-packages"
         },
         "gricad": {
