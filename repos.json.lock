@@ -365,8 +365,8 @@
             "url": "https://github.com/lheckemann/nixwip"
         },
         "linyinfeng": {
-            "rev": "2e777d5dee8097b5360b095af994b09b9177e114",
-            "sha256": "18kynrahq8gzb2agvrjh9amhcb2d3jiidlww5l8a4a99lqxkbzwc",
+            "rev": "24145f21149bb6b7748d6d8a74d980c516849ad5",
+            "sha256": "0sm2sjlil28r3y23bn6l6h03xf36nlwfrwk6zr6h2sf7wpfswsqk",
             "url": "https://github.com/linyinfeng/nur-packages"
         },
         "lourkeur": {
@@ -571,8 +571,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "ecc0c79d4ef40cd41c0d03e9ccd77ea4089a1d4f",
-            "sha256": "1yadagibpl3c5s3nn3wq3sdr41lb04k75g2az3gn30vgxy51rz79",
+            "rev": "585e610c5f06ac4e845ba6c07325d4a6eb894878",
+            "sha256": "1g57gzg936rh71arfkb7hhydgvwd1cry3yza5x51wjwib2jcgqxv",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
