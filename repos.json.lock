@@ -182,8 +182,8 @@
             "url": "https://github.com/dywedir/nur-packages"
         },
         "eduardosm": {
-            "rev": "9f0192f06b97f25f65a8c2f53ae36d16497b91a3",
-            "sha256": "14jn18y81hmkq742f2sy8x9fiq0lzv1qdjkkbil1pykhphav0ciy",
+            "rev": "00d6423f86fd29560daa376c698c90061df6cab3",
+            "sha256": "1mvpkj63jn7g6d2blhzfcj4ajl6lq793xa2dqvvir380n671w2p4",
             "url": "https://github.com/eduardosm/nur-packages"
         },
         "eeva": {
@@ -222,8 +222,8 @@
             "url": "https://github.com/Fius/nur-packages"
         },
         "fortuneteller2k": {
-            "rev": "e2c4e841eb0b453082b0b18e5819544e9daaae04",
-            "sha256": "04lih8494bii5nzn74l68i27dpz5nmabapwdpfjg52ff4j01vi4r",
+            "rev": "b0709fed17b530a505f63359a5a099c575a1140b",
+            "sha256": "026gdrc8lf5dkprj5p728hjyizj4rrh96rdz1kzv2d1xzbhg4dls",
             "url": "https://github.com/fortuneteller2k/nur"
         },
         "genesis": {
@@ -385,8 +385,8 @@
             "url": "https://github.com/lschuermann/nur-packages"
         },
         "lucasew": {
-            "rev": "5f24c650da0bd9e10a3fdf7ea31bc437a4950557",
-            "sha256": "1lwrvwrjxjzgk0dv1h79wzmbcpjc7sxczbi5whyf9b7ywlafbz81",
+            "rev": "909a915c18838ffa7b9adb0ac6170ca8ea83a1e3",
+            "sha256": "196p5lql9yac7hx7izx82qf99hsnwv0wxzv5kwcpjjfjk13xdq4n",
             "url": "https://github.com/lucasew/nixcfg"
         },
         "makefu": {
@@ -576,8 +576,8 @@
             "url": "https://github.com/Ptival/nur-packages"
         },
         "qchem": {
-            "rev": "6772467117e8530dfe2f5ddd152c6c753d09d9bc",
-            "sha256": "1yl7c9fncwf9wrxs6973m5wjsm0w1zgxy2ihqhpwb9fcd2zsdfj3",
+            "rev": "7f183badeb14923d5020663b705caf7dfa44321f",
+            "sha256": "0ms15ajnk51dyyhwzfdds1c588hahzr1cb6342lq0l0cwdlymikp",
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
