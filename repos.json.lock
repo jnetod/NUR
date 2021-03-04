@@ -152,8 +152,8 @@
             "url": "https://github.com/divanorama/nur-packages"
         },
         "drewrisinger": {
-            "rev": "4d3a7dc38a5a313c5d8dbb49fd4a555f83aed70c",
-            "sha256": "12p0mz2z9k15icaghjaf1hmhri69q6lgi0r90fm03ybr0g5shgql",
+            "rev": "242433cf2af3cee6897c6e6cb9c8830066745b06",
+            "sha256": "1ajiqfav4v1ga0f4614ggpcmy79qpq5xnjklxq5cy7fqc99c9l7a",
             "url": "https://github.com/drewrisinger/nur-packages"
         },
         "dtn7": {
@@ -385,8 +385,8 @@
             "url": "https://github.com/lschuermann/nur-packages"
         },
         "lucasew": {
-            "rev": "001d6105e8f97dcec45ae3c65d5d66ffcc91797b",
-            "sha256": "1xlri813i5l3h4gxm93mr1jqb2apvika5m0w0xw0dj00h3i2r7k8",
+            "rev": "b74f48d84a9c1d795b12c6950e8fa4f130eb32ad",
+            "sha256": "1ndsyrbvfxxak4a1dd1gw2j7y3yawrszhkaxn31z6fq5889p3nyg",
             "url": "https://github.com/lucasew/nixcfg"
         },
         "makefu": {
