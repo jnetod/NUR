@@ -272,8 +272,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "df9ef0fc6b4d617316440bf361134a568330277f",
-            "sha256": "0961n1dy1mb68wbmymdlf4x3616kwfflk5yh197rgznxwyczcwjh",
+            "rev": "05c8b429619b733f7f1df986c1c174bf5af1b2bd",
+            "sha256": "0pijsb64awbfs7z0bh28imbr7bdag639xgb66095l203ixfsg707",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -581,8 +581,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "c1eef3ae9e32a7e2f076ab3764265fed865f5d1c",
-            "sha256": "05kf9vn8rp6w5sf5j5c2i2da27ccwvb3idlsixfdlkhgyijgy78b",
+            "rev": "0b56f7a99f0212149e5bee1fa96084ede1a0ffc4",
+            "sha256": "16ma6yxiqw671jiklkbb0wlg22zayl3z9dsva57rhczc38bl34zx",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
