@@ -36,8 +36,8 @@
             "url": "https://github.com/angr/nixpkgs"
         },
         "arc": {
-            "rev": "452c78612fd51024fb9eb01b0f00aee6a61e4114",
-            "sha256": "0g7yvmmdbwhqk338j9cfvn6m22xi6636q34rkrsaxhnr96kzxmpj",
+            "rev": "dd8ada6ce98285f41eb7c85812aafa1f2656362b",
+            "sha256": "1rwxh9vfnpj75h0lfpd6lpbygpbm5110wamm04fsx8fh7hmc4yq0",
             "url": "https://github.com/arcnmx/nixexprs"
         },
         "awl-fcarza": {
@@ -272,8 +272,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "9c7fa3015eedd794715113032c09458a086922f5",
-            "sha256": "0aq8bya9721j0bjwc9kwr65mry4x64vfrrnx8zzilknivm9sd8q4",
+            "rev": "422ef96e4ac18e42206f07787bf1aec3623e1d32",
+            "sha256": "00xiawlw80xlm6lln6x8j4xc0f8spnv1pi6vxdpk6lnhrk2qz7vn",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
