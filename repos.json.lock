@@ -550,6 +550,11 @@
             "sha256": "01zmzc1y50px9j2rjr41q7bhh0z8qzmp2rv6nj6fwkgl6izbq6cq",
             "url": "https://github.com/piensa/nur-packages"
         },
+        "plabadens": {
+            "rev": "fcc58df4d417348392d86b446e94417124ff8100",
+            "sha256": "0qm85ss036phnnsx9svy73lp231mjffn5l3i5llj31d9yya51xaz",
+            "url": "https://github.com/plabadens/nur-packages"
+        },
         "pn": {
             "rev": "b0f7fa45cca9486021485264431e09377aef97c9",
             "sha256": "0mdqa2xr4sdgk5w85jjznajy91c5ky9xby4nysfpzzqwsk0mldks",
@@ -600,6 +605,11 @@
             "rev": "d5199deeb9d43965dcea37fa7fd38816feb583da",
             "sha256": "0vfr4gwxhc3iyyrs7zrxm4gwwh7qmripiixvsv3ql40zfw0lclya",
             "url": "https://gitlab.com/rycee/nur-expressions"
+        },
+        "schmittlauch": {
+            "rev": "449fcd90951ab889ea4643de7e82f95a7fd42196",
+            "sha256": "060mv0pn0n84r7h31k0b12xf3g7jiclsnqfz8wppdzyc94xv235s",
+            "url": "https://github.com/schmittlauch/nur-packages"
         },
         "sehqlr": {
             "rev": "5b58235af5918492f21773b7d4326e8fd7e3ba52",

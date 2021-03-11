@@ -451,6 +451,10 @@
             "github-contact": "piensa",
             "url": "https://github.com/piensa/nur-packages"
         },
+        "plabadens": {
+            "github-contact": "plabadens",
+            "url": "https://github.com/plabadens/nur-packages"
+        },
         "pn": {
             "github-contact": "pniedzwiedzinski",
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
@@ -493,6 +497,10 @@
         "rycee": {
             "github-contact": "rycee",
             "url": "https://gitlab.com/rycee/nur-expressions"
+        },
+        "schmittlauch": {
+            "github-contact": "schmittlauch",
+            "url": "https://github.com/schmittlauch/nur-packages"
         },
         "sehqlr": {
             "github-contact": "github",
