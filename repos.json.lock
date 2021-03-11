@@ -237,8 +237,8 @@
             "url": "https://github.com/gnidorah/nur-packages"
         },
         "graham33": {
-            "rev": "378dd0af4005ab601b62ce40d0d35deae7d12ffa",
-            "sha256": "08p02rkhbnc96zdw3j95kgdpci08j480gag71a4pnspi9ddi8gla",
+            "rev": "95bcf9a24d3184bf816cf07e1b5f8e616a797c1b",
+            "sha256": "16kjlps9d6ijikm2m84ni6f40q1yjyj524pyrbm2rbaz8qr884lp",
             "url": "https://github.com/graham33/nur-packages"
         },
         "gricad": {
@@ -410,8 +410,8 @@
             "url": "https://github.com/CajuM/nur-packages"
         },
         "metadark": {
-            "rev": "495782a6da75dce3e3a367329c189a2ebf076eed",
-            "sha256": "1rlkc1naphdd3drgacj45hjj6xb5g5k1gpcaav7fqf3j6k4jk87j",
+            "rev": "934b790adaeecaf5b55366d1ca054282758561f7",
+            "sha256": "1h7mpq8yipi5cy43v43lyd8r9cj9cbdagbcnp7pdqdszhs32zpj7",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
@@ -597,8 +597,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "4ec2bddb3e92e2e0f3ec8c3584436096702e89e5",
-            "sha256": "0aq7wc2qd2r0ycfq2i49sw2s0xs9vvs2p1pw87ckkjkvncrdq7w7",
+            "rev": "d346944f18bd8845ac1a26f1f441986ac53e6ab6",
+            "sha256": "0m33rcy40wm8jih1xvidsdjpj6cqclmk1w2sybivw19fdsgcyimx",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sehqlr": {
