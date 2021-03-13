@@ -167,8 +167,8 @@
             "url": "https://github.com/dtzWill/nur-packages"
         },
         "dukzcry": {
-            "rev": "b30f9e7c654148014643b8f4e2037f98e33bbed3",
-            "sha256": "0fgaqg2wb4pmmbk5vhmlw145wgyxfbrclr6llfsdvnvbmw3mnii2",
+            "rev": "391c8eb0f53e3d0ed5a45e0c61752b8fbb0e5484",
+            "sha256": "1z20gxajvn7qkmbx1lpaykvdb5s975pkvsn8nd72cq8ndgwsb6zp",
             "url": "https://github.com/repos-holder/nur-packages"
         },
         "dustinblackman": {
@@ -277,8 +277,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "c04b982fafc23180eec9154777e2f4c801286182",
-            "sha256": "1g446g3y1lqz2y2837ywnsywf8amrzavl5bz6j6vn08j8vdbndz1",
+            "rev": "e80df9293a1857c516249992108ce081bf773f00",
+            "sha256": "1qvj34736gj0ipkvn7r05m42h0r9yyy1lic7xzg6cdcfym1m31hv",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -375,8 +375,8 @@
             "url": "https://github.com/lheckemann/nixwip"
         },
         "linyinfeng": {
-            "rev": "d7b2aa6d540358c62e936ada59bdbcc10ad72668",
-            "sha256": "1lvl5w09ag12ck9nl30x6cjfy1r8pqnwn5d8rzwg094xm03qjww3",
+            "rev": "be6594430ac356623937ad446ad087a2e4c3d0f3",
+            "sha256": "133khr76mzypx4pwbm2m5rvy4xywdj675b3w7b2k5i7mq2h4r5sy",
             "url": "https://github.com/linyinfeng/nur-packages"
         },
         "lourkeur": {
