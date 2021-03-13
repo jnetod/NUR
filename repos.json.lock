@@ -237,8 +237,8 @@
             "url": "https://github.com/gnidorah/nur-packages"
         },
         "graham33": {
-            "rev": "95bcf9a24d3184bf816cf07e1b5f8e616a797c1b",
-            "sha256": "16kjlps9d6ijikm2m84ni6f40q1yjyj524pyrbm2rbaz8qr884lp",
+            "rev": "69272a08fb75ab49000f23c261e21887d494ca6d",
+            "sha256": "0bpx235z0cqzibmcz1m7i7wxw6vyxkbznck3mwnxg808ir35mp5i",
             "url": "https://github.com/graham33/nur-packages"
         },
         "gricad": {
@@ -292,8 +292,8 @@
             "url": "https://github.com/06kellyjac/nur-packages"
         },
         "jakobrs": {
-            "rev": "ea78dc32873c58b7c97db5cf275a5bb179242873",
-            "sha256": "103ivm75pw8hisimncqzfapmh14vsgkqbh9bcp9bqiq618jl1rsw",
+            "rev": "a9fb5fd38a155162a9e7ce334b1b11b2cc4cf30b",
+            "sha256": "1mwz98sscqxxrfldfxgr25w7rc4lnkffsld1x0lvhbpjrxqr5wmj",
             "url": "https://github.com/jakobrs/nur-packages"
         },
         "jbarthelmes": {
@@ -561,8 +561,8 @@
             "url": "https://github.com/plabadens/nur-packages"
         },
         "pn": {
-            "rev": "943b3faa9f4cc8d49a6b2f2ab70b87e2ccd7e1a8",
-            "sha256": "0lw5yfcyj5agizdpnn9vsilzah8vfm6g720ws7a82v73v23af2rs",
+            "rev": "978b45b095836876d65191ffa04ad56311475a1e",
+            "sha256": "0n4jbmpr6r57vfvpzkf50hd7llxhaxrxgij96iq5x53qwvmgijah",
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
