@@ -111,8 +111,8 @@
             "url": "https://github.com/cransom/nur-packages"
         },
         "crazazy": {
-            "rev": "daf3d78ce4107470d95cce1c2f1d49ff9c56e86c",
-            "sha256": "07dmk68294fs1c30hfhixjbiqxh8qrsq8i68q3i96ba3i4xam4s2",
+            "rev": "4144547fb4db1cae343e7a9759226b91934413d7",
+            "sha256": "1asrl27rvaj374rfvpmaxm6qv6bys4q702fh29gdx418wbg3rcn7",
             "url": "https://github.com/crazazy/nixos-config"
         },
         "crazedprogrammer": {
@@ -566,8 +566,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "8bbc5e89fc825f0e08df2e0922451ab496aee342",
-            "sha256": "0zbfr9y2r30aqxzgqblnnllmjznc55sk86alx399qd3iz0b7pv5b",
+            "rev": "d30dbf64aea1a8bb5e86c00ef996c6be56a8c715",
+            "sha256": "1n33qgwhva1gsagxh38ahbd0w4040zy5irwkmwkqfzaykvv1c72f",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
