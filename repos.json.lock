@@ -227,8 +227,8 @@
             "url": "https://github.com/fortuneteller2k/nur"
         },
         "genesis": {
-            "rev": "abb64235d2f62f54383ad16a918b7d1c147a1e72",
-            "sha256": "08gm1hqazgwkb9b2hx0vq8xkghhfxbbpy4n92bmwk7alddgappj8",
+            "rev": "1018eed1219bc5d8414ad12bdb1f4953d51e2d75",
+            "sha256": "0bfv47v5zhy5b6dw9w4m2mlwxwjjpi4zbdr7sks433y6kb2m425g",
             "url": "https://github.com/bignaux/nur-packages"
         },
         "gnidorah": {
@@ -607,8 +607,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "8d495f7912c9b9b88ee7a0923f126bee767d07a3",
-            "sha256": "0i3mipl3i4niw7l6811lh59g3c7yl63i5dwynczl55nar40g5nx0",
+            "rev": "97221e0043b64b5144573b0f1b1028652c2ef1f1",
+            "sha256": "1vbx3y0p120wcjvfs7dfzqv1xz7fysh3v09vg37xyqgi4xg5s9c3",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "schmittlauch": {
