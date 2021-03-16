@@ -101,8 +101,8 @@
             "url": "https://github.com/ChrisOboe/nurrepo"
         },
         "clefru": {
-            "rev": "17f300091c7acbc2fc899df75004f4d1b9358fa7",
-            "sha256": "19wi7i7a0n1yd1g45mini03j7fwcqpq9wh7zilgc7nrp6il3khpw",
+            "rev": "3411d5d075a96653478062fd973b62776b286a37",
+            "sha256": "098qf7n98hm3karxvcxmb90051riwysn5mp1cvxw178h01p0d65c",
             "url": "https://github.com/clefru/nur-packages"
         },
         "cransom": {
@@ -282,8 +282,8 @@
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
-            "rev": "2982a28470cdd0f31611fb636d14b2d29fa9b25f",
-            "sha256": "0zks62y6r3ybmg3qb2ji7nkr298sly26rih8xn58dqjm1k9x4ii6",
+            "rev": "d763d1c4fd7c9f09a39bd8224caac641216b29bf",
+            "sha256": "0bl9g164ghb7s97wwjxyny2sycjci675rwkixpi959a3i2jvxqy3",
             "url": "https://github.com/Izorkin/nur-packages"
         },
         "j-k": {
@@ -561,8 +561,8 @@
             "url": "https://github.com/plabadens/nur-packages"
         },
         "pn": {
-            "rev": "978b45b095836876d65191ffa04ad56311475a1e",
-            "sha256": "0n4jbmpr6r57vfvpzkf50hd7llxhaxrxgij96iq5x53qwvmgijah",
+            "rev": "75f706aca1739202e6e1d05d269f7838f8462d21",
+            "sha256": "10jk6vnzy0cyv3gxifj6j8kkbs2igi6fzjdmxy5wwpkg436zash6",
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
