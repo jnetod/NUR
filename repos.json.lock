@@ -167,7 +167,7 @@
             "url": "https://github.com/dtzWill/nur-packages"
         },
         "dukzcry": {
-            "rev": "391c8eb0f53e3d0ed5a45e0c61752b8fbb0e5484",
+            "rev": "7300cdde9c1d110ee6c24de717a3c731a97f783d",
             "sha256": "1z20gxajvn7qkmbx1lpaykvdb5s975pkvsn8nd72cq8ndgwsb6zp",
             "url": "https://github.com/repos-holder/nur-packages"
         },
@@ -566,8 +566,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "a0d1a8eed94499aba292e1f45fb7c7e988119542",
-            "sha256": "18ad80pm65qzwalqwiak9xyx0i4scpmixv6s1cln733rxzhrzy2p",
+            "rev": "365523ae3ddcc04e621093b93969d7b47193fe92",
+            "sha256": "012alzka5yzw115s04cpqhm9jmzhlflapjzmvlyckn7b7wsrwr45",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
