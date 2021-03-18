@@ -591,8 +591,8 @@
             "url": "https://github.com/markuskowa/NixOS-QChem"
         },
         "reedrw": {
-            "rev": "c9d989ff46be54d914e963006f74d33da11ded59",
-            "sha256": "1g8qwmzp38hk2sqngrmi369ml2vhx2a8klfr2c0s47wsgcx4izwh",
+            "rev": "75a0e216af64899c46076e23af628f302d1850f7",
+            "sha256": "0db6xb6fawqn1vxvi82y5rnw24fz3j8rp4awnq5nb29dfpj4ns4d",
             "url": "https://github.com/reedrw/nur-packages"
         },
         "rencire": {
@@ -607,8 +607,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "27f5323a540f07d843caac6e7c60cdda7a42bf0d",
-            "sha256": "1v4qifghpawxxwnrc2cn2x1r9lchbhx0f2cqw509bf974l5cidxh",
+            "rev": "249af1766ffde1b9d00f760b53acf10058036b71",
+            "sha256": "1d5fbs4z7v56nq79sg3ir9d7mjh44q5n6rgl35k20brhgxzxsc5i",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "schmittlauch": {
