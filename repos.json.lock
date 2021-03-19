@@ -277,8 +277,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "04af5fed0977c6748be71232df2b0e197b980eda",
-            "sha256": "1qdcagwla7pipz7vsnxcfqapay05pbk923jnq7pnmwylg18yaa4m",
+            "rev": "88f7d3d45117c6dcbedf4da84f8f4ce8789e6e20",
+            "sha256": "0g2g9ilfph5pq7knglpwy9j5a6yv76idvgavw0mf2w0ii834hrhd",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -415,8 +415,8 @@
             "url": "https://github.com/CajuM/nur-packages"
         },
         "metadark": {
-            "rev": "d401e558e4221023826f84ec715f065c4870a977",
-            "sha256": "12388pfh75w3214w3mib8rh3l4maaxbv6dk7zkc5aqhlnd6vdqn7",
+            "rev": "6d57e0b0b72f1f988fdd7707390a82f67c6a9146",
+            "sha256": "158w1cb5cy9n9970lmkybyvwp9zj06iq2njd920gppqpp27fnjlx",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
