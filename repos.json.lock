@@ -282,8 +282,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "bd9466775752a32e9793eff69d898f7676399639",
-            "sha256": "0absngci42j4jkx7cifwdgnrri5kkffaq40lb7sjgjk6x6jg7k25",
+            "rev": "c71a5d2d7487d5eb829010f883cd2d932d549ffb",
+            "sha256": "1wsbpbjics7mbmm42q5kb1z21idqxmyx0rknm7w7l2zv79r2irkb",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -622,8 +622,8 @@
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "schmittlauch": {
-            "rev": "449fcd90951ab889ea4643de7e82f95a7fd42196",
-            "sha256": "060mv0pn0n84r7h31k0b12xf3g7jiclsnqfz8wppdzyc94xv235s",
+            "rev": "21f79995f2dac08731199a1ebec9926cacc4b821",
+            "sha256": "00hql8svzb184ins650j7l670c21k5zw1na380200fx45hjfcdxg",
             "url": "https://github.com/schmittlauch/nur-packages"
         },
         "sehqlr": {
