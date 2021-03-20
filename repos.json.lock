@@ -111,8 +111,8 @@
             "url": "https://github.com/cransom/nur-packages"
         },
         "crazazy": {
-            "rev": "29c0ce86f3e936bac6a02eaf685f3720acaa5b5e",
-            "sha256": "1hzm5ng673y0agldkk5y3bp2hsi39knbppcym6czbfdinnry10js",
+            "rev": "d3ac0ed9b35a667c4df26a2f67bcd043d1d2df88",
+            "sha256": "1y4cp04mi680cscb2cqlajb89c96g22bnm5f2629ii3dcnqd9wn7",
             "url": "https://github.com/crazazy/nixos-config"
         },
         "crazedprogrammer": {
@@ -430,8 +430,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "2703a80acca929787a1358c534b7e4057a792d0f",
-            "sha256": "0hgsbqchr842y7q76rp13i9nkyfswjsz181x0hq6p8yj02fbxrq7",
+            "rev": "0a44cc09c2a1a773352d45d1cd644cd90f783a8e",
+            "sha256": "078bqz7scppb8104v6zjbzk40js7sfda2qamrnakxzl260da1wdj",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
