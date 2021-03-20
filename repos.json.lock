@@ -242,8 +242,8 @@
             "url": "https://github.com/gnidorah/nur-packages"
         },
         "graham33": {
-            "rev": "69272a08fb75ab49000f23c261e21887d494ca6d",
-            "sha256": "0bpx235z0cqzibmcz1m7i7wxw6vyxkbznck3mwnxg808ir35mp5i",
+            "rev": "03695edc9aeab01eb1b7c3700d16e510ff4ca9f5",
+            "sha256": "0kglvx93xz94gki3zdpmsxb74pr98v7yqv8f3dpvi18ni7qm0r9d",
             "url": "https://github.com/graham33/nur-packages"
         },
         "gricad": {
@@ -395,8 +395,8 @@
             "url": "https://github.com/lschuermann/nur-packages"
         },
         "lucasew": {
-            "rev": "3c2ebf34e7f3afa734ab61a42dc93a63f11deca8",
-            "sha256": "04rh9hs5dqyyawaabk1gf387czmavwazag0ncnb9mvlqyck6b9xd",
+            "rev": "9d27e2d2254b24b020aeb6cd689466f8b971c708",
+            "sha256": "0kxflzhfy5pqnpc93164nw59swwn8w7bv11p3g07gr3jpg92j9kr",
             "url": "https://github.com/lucasew/nixcfg"
         },
         "makefu": {
@@ -652,8 +652,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "6c375dbbe9958e4473d8077859326f49148b2822",
-            "sha256": "0fy3zmc48spkrf8yq7f127a984i496qs2v73ravv6xzpmiig7lsx",
+            "rev": "5113deb5aa9174002d4c882a73683fed66ca1521",
+            "sha256": "0mzd8g5fdjk9qrq75sxqxcy1cb09abnb5wgwgd50vhcqnisy8zcg",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
