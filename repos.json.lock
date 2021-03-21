@@ -430,8 +430,8 @@
             "url": "https://github.com/mhuesch/nur-packages"
         },
         "mic92": {
-            "rev": "0a44cc09c2a1a773352d45d1cd644cd90f783a8e",
-            "sha256": "078bqz7scppb8104v6zjbzk40js7sfda2qamrnakxzl260da1wdj",
+            "rev": "54bc4b4b033c984b29e276c38f8c37b83b286e5b",
+            "sha256": "0wynxsfnf79b43mr2hcda51rk8wnjkl5zlwyh6mr51mdp130jb6g",
             "url": "https://github.com/Mic92/nur-packages"
         },
         "mmilata": {
@@ -720,6 +720,11 @@
             "rev": "f45e5a2ab2f29c9b7e7eee6c62289db755545329",
             "sha256": "1pv53mxn5ci76lzvabrkqcvd9nnpsqkqs2wzdwrh3r394zfjp22h",
             "url": "https://github.com/trevorriles/nur-packages"
+        },
+        "uleenucks": {
+            "rev": "7ec5e131daf550e6850ee5238900158c5ec4eece",
+            "sha256": "1s5kw9mf54w2z5fvw230y9r1w8jcnnlcdcdrai24lnm0qzdx9ryq",
+            "url": "https://github.com/uleenucks/nurpkgs"
         },
         "vdemeester": {
             "rev": "ca2dfff25f39a4abc2e279c12367058d49c48acc",
