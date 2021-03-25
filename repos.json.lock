@@ -617,8 +617,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "1d4da8f0f0d6b0a7decac7b85250af9caaf0b686",
-            "sha256": "11h3xf93ivf12nxrhqbqdbxd03ih5d3p5d5h31dd4an90vg54d0i",
+            "rev": "fe3f4b602a206972ed8ad063c44b5eaa311cba25",
+            "sha256": "0y9jjqqijqqqxw808mvw9rfnq9syzyh23h4w1z2xqnw08l311i5z",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "schmittlauch": {
@@ -742,8 +742,8 @@
             "url": "https://github.com/Xe/xepkgs"
         },
         "xeals": {
-            "rev": "8880697d0fba0273c6ce9b125efe48212050ddbc",
-            "sha256": "0pcxgi4xadj01inf8h8njpj2qb8jarkafrpxpbhir5gscbv3j7n2",
+            "rev": "22405f8ab91b12773c3292456a96dbdba31d7e2f",
+            "sha256": "0xg769bj8xpqbwnlfvln0hz5860hnil5rycfq4zgl97kwcih5ldk",
             "url": "https://github.com/xeals/nur-packages"
         },
         "yoctocell": {
