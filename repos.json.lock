@@ -282,8 +282,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "fd6df602cae71f8da770e073d6b81390e1b2dfeb",
-            "sha256": "014w0zc7hd5rnkznkyy5hvid8wh8ff1abj5rzs7qizkzz3j73far",
+            "rev": "2dcc4a2b85dad25b1fafa21d7465ad7b27c0fb2a",
+            "sha256": "1zwfg8znlijmhsr9bd5x5i2hd8vmj85hb3yf604mrxhfrp1684iq",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -395,8 +395,8 @@
             "url": "https://github.com/lschuermann/nur-packages"
         },
         "lucasew": {
-            "rev": "8c41dd93cbdf8c908588c40a500c82fb5d14df40",
-            "sha256": "0q3zk9l0zn9ll36a71gpvm0kr924nw7y1smbxq4nza17hsbfjyj2",
+            "rev": "6e869828c4960f1d50d1977b2dfd2144ae89a48d",
+            "sha256": "17scqnpwqa4yckmcac1k9v81vsbb511xd7c49d07ydhaq3x8civp",
             "url": "https://github.com/lucasew/nixcfg"
         },
         "makefu": {
