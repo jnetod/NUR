@@ -395,8 +395,8 @@
             "url": "https://github.com/lschuermann/nur-packages"
         },
         "lucasew": {
-            "rev": "6e869828c4960f1d50d1977b2dfd2144ae89a48d",
-            "sha256": "17scqnpwqa4yckmcac1k9v81vsbb511xd7c49d07ydhaq3x8civp",
+            "rev": "a8d2a4da7c834946fdd00a04a2e69768602b4262",
+            "sha256": "1knmxicgvnpkqjpwpww87zf25ydyvs70s3rmp2l919i4ymkw1887",
             "url": "https://github.com/lucasew/nixcfg"
         },
         "makefu": {
