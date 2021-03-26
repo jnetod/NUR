@@ -232,8 +232,8 @@
             "url": "https://github.com/fortuneteller2k/nur"
         },
         "genesis": {
-            "rev": "544b4ebef7b8a065877d1f0341312d2cf69c84c5",
-            "sha256": "0yyi54hb8zny1rx2v6924bv67r0ans9nrh9ss2fh30yrpfnfzh0j",
+            "rev": "7c0800d1dc8707c13fd3b2812d29debc487c1106",
+            "sha256": "045k74kk9vd803m5a3klfzch1clz47a7s1ixma3kmckj0vjcgyqs",
             "url": "https://github.com/bignaux/nur-packages"
         },
         "gnidorah": {
@@ -576,8 +576,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "712d8afdd76d5b2f8802d93247dc0b6aee358032",
-            "sha256": "1vz5i5b34bfssfhid24hknavkrf4vbrf4ml0hrkiwmv9a5fd63x1",
+            "rev": "75742fb80f0cf63372819775ab3f894955c3f22a",
+            "sha256": "1h8zx64assnfkz2q7cnrg7wfnnmw7mzfpaz8s4rx1yha524z6z1z",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
