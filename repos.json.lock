@@ -172,8 +172,8 @@
             "url": "https://github.com/dtzWill/nur-packages"
         },
         "dukzcry": {
-            "rev": "48356a2f7667d80da22e2d4ce4ee743dd6ce0196",
-            "sha256": "1qq2axg0np4s93sysmxw37iywfa4gsv7sxakv29mszb1cb1ad41z",
+            "rev": "2ff52c3d8b6319cd07b7153fd88ddc3a3b6ebfd3",
+            "sha256": "1pwpw058mxmai2x13vqg611lqwm1wjbr78m7kwccckirldnllhgd",
             "url": "https://github.com/repos-holder/nur-packages"
         },
         "dustinblackman": {
@@ -282,8 +282,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "49d86cf02d141f31c4c539f5aca26baf15c786bf",
-            "sha256": "143sgjak2y55y1xn52i9ccha2lv7sx2xa9hmyhwjqh0mj18f6w5h",
+            "rev": "7f51e0d09273b8769ec50c481333a7b6121eee19",
+            "sha256": "0mfds2pr6xrwrrgq647qz8ajjk3pd8r0rvpk148qs4ljw5xh7pya",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
