@@ -282,8 +282,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "20a8c0fad8c94786f4ebc2071f0577997f81328a",
-            "sha256": "1h6zf35xff52rv8q0z0rpp9367sh7x9fbh06divjplc81wq8yvl1",
+            "rev": "777b9c67dbb2d8d7a6b39d161087e0ef2581dd54",
+            "sha256": "07qms85pb8cwj0wrpx9vgywn4z6rvrn4akdiy2ny0xxqycd0brv6",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -312,8 +312,8 @@
             "url": "https://github.com/jjjollyjim/nur-repo"
         },
         "johnazoidberg": {
-            "rev": "780d5afcc8ea50ece33082f7b3fd0700587e0253",
-            "sha256": "1n3qlhrpc9g9n60cyj2xj7vzlmbbj2xhq8grs72g0pkjaf5qzcss",
+            "rev": "b2b0d9ca4a3f777100e8805e9e389bf62d4e2a88",
+            "sha256": "1x4gf7ghnqcyx8c82kx7vd0pjk15q34c3hrm9nhw8a4mp1cm30yx",
             "url": "https://github.com/JohnAZoidberg/nur-packages"
         },
         "jomik": {
@@ -652,8 +652,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
         },
         "sikmir": {
-            "rev": "e192fd103021183fbe55154634d36c47056ac1c7",
-            "sha256": "1s9qclzdy9bb6xgcdb3h04fn9ycr5lgncb8wxz1apw6zkgcv6m0i",
+            "rev": "b06884b33bafcce216d44a274cfd22cb75be31b6",
+            "sha256": "1s2jmgmw2x17njlmxjsdsfz2g2xc098db10fi60m3vsp5qq0fj7a",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "smaret": {
