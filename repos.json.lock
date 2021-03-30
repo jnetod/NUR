@@ -227,8 +227,8 @@
             "url": "https://github.com/Fius/nur-packages"
         },
         "fortuneteller2k": {
-            "rev": "9263722fe2c2d7e9aa0be19043395ccc93aab084",
-            "sha256": "1pz6a84g59jy3n1bbnp7p34sl3j439lw8sms3nl1an1443ad9r75",
+            "rev": "ccda06ee271419422b3eac6354e999ae4609fef4",
+            "sha256": "0905asl2qpbqafipqw7pvrx41md0s3f2zz29s8v1v26acb32xrp3",
             "url": "https://github.com/fortuneteller2k/nur"
         },
         "genesis": {
