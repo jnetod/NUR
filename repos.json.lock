@@ -282,8 +282,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "bc38f650b52ae8d1cdaa51280ffe4096ebe9d350",
-            "sha256": "14z25rppcj5y86k2r8zv9hvxyv79729qdf6b6cp1drs0w09kiicb",
+            "rev": "9b38826171b6a64b80330e6dde631926af34f60d",
+            "sha256": "0f6a4p28brjhap43xn34v2isbdnh237agh5rhf9rrmaxd2j55yym",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -395,8 +395,8 @@
             "url": "https://github.com/lschuermann/nur-packages"
         },
         "lucasew": {
-            "rev": "5dcd1d22d6830c11c308aecf1074c1cdd21a35b8",
-            "sha256": "042qlxikmcdqlj096ivv17w5kj0vkb8lzqyg6hrqi1bxvfdlhqcl",
+            "rev": "9a2ff6f637e5b91d94a2a9a9279ec1549bf4d615",
+            "sha256": "1g8lbzybvzw3d4sk7ckkrdr6bx8l82pbpqp3xnr9lphd7c87s5wf",
             "url": "https://github.com/lucasew/nixcfg"
         },
         "makefu": {
@@ -420,8 +420,8 @@
             "url": "https://github.com/CajuM/nur-packages"
         },
         "metadark": {
-            "rev": "751059639ce5d6d6ada2a88987239a383757c7a5",
-            "sha256": "0z0nl5r9amqdkwj65c9r1glzcz0cgw9amw5khdg6zdpg799amywb",
+            "rev": "c30aa9f2d7ddf3646e91dc461d18d48435941826",
+            "sha256": "09vlkncf22syl4sypplqk17v4qn6229n8hlvl4cb90km51fak089",
             "url": "https://github.com/metadark/nur-packages"
         },
         "mhuesch": {
