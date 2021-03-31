@@ -282,8 +282,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "9b38826171b6a64b80330e6dde631926af34f60d",
-            "sha256": "0f6a4p28brjhap43xn34v2isbdnh237agh5rhf9rrmaxd2j55yym",
+            "rev": "f6ee820683a7af0967f617eaa1f4d77c6dd711fe",
+            "sha256": "1cn5pfhw6k9ybsf5z33y0z6axnx1cvap8c8lzixdwmvsgc7f3myg",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -581,8 +581,8 @@
             "url": "https://github.com/pniedzwiedzinski/pnpkgs"
         },
         "priegger": {
-            "rev": "bf70a38319f7e0ce017aa0fcc230da70b86b99d2",
-            "sha256": "128wz21npqx9x6kjkcvz03awxr9y38iv079swnd8jlmhh7zp5dpk",
+            "rev": "d76af8a28036e29bebcf9161ca61ac375d119f2c",
+            "sha256": "1pj7db3jhcgr17r5x69gh8drf3l2xl8b2p0wgzgsra82gkwlsjs0",
             "url": "https://git.sr.ht/~priegger/nur-packages"
         },
         "pschuprikov": {
