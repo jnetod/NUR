@@ -282,8 +282,8 @@
             "url": "https://github.com/instantOS/nix"
         },
         "ivar": {
-            "rev": "5af59b56b73786d033a4bd5fd44791e85160b817",
-            "sha256": "1fif7idw4gw0ascxcyz6128ix7zadzm1sggf48blydzwsh2s271g",
+            "rev": "15ade5ee1b245520649372080637d55086eed9ba",
+            "sha256": "14m3wpjm0y383i4gp5zji0sck0d3i48xnblbmcj6bifzrvhl44kq",
             "url": "https://github.com/IvarWithoutBones/NUR"
         },
         "izorkin": {
@@ -395,8 +395,8 @@
             "url": "https://github.com/lschuermann/nur-packages"
         },
         "lucasew": {
-            "rev": "5d84fc4e94c3cc6253d38b354df609c60cfd310d",
-            "sha256": "0zcpq28p7j735k09m2pqsa94m66w2ca8xy16frbmkr038jxy986f",
+            "rev": "1b2fdb42c090a4ce13331baf710f5986692ee64f",
+            "sha256": "0y23id3m8gvrmjawld25jfw9yrmballp301ssw2w6xc96q3994ps",
             "url": "https://github.com/lucasew/nixcfg"
         },
         "makefu": {
@@ -521,8 +521,8 @@
             "url": "https://github.com/nprindle/nur-packages"
         },
         "ondt": {
-            "rev": "f55ac604057e0e70a404b84598bf4d64ee278eaa",
-            "sha256": "1r50cgaaqwzbbmlb19zinn37i7110ghyr4qn7x2pdc0dabci612i",
+            "rev": "33a201e310c1324e42fbdce31c22798dd51b4825",
+            "sha256": "1vjn3zwn55gc19fq1q561wzrvlffgjnsa4m8vqr9pdh4lzwmcc0i",
             "url": "https://github.com/ondt/nur-packages"
         },
         "onny": {
