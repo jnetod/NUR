@@ -36,8 +36,8 @@
             "url": "https://github.com/angr/nixpkgs"
         },
         "arc": {
-            "rev": "824afa36a052e92fc0cba99c7cde9af7694cb7bd",
-            "sha256": "0y9f6h3pisjw6dx8ljmzk5r1rwnf98d0kkacflcm7swa4s187jsz",
+            "rev": "78009dd7742a4cfef92aafafe17d132b74387612",
+            "sha256": "08ps6fs5098m7dbbkxi4xhhvzhcgxpfjhv8rnnyjh710r68gnkh7",
             "url": "https://github.com/arcnmx/nixexprs"
         },
         "awl-fcarza": {
@@ -521,8 +521,8 @@
             "url": "https://github.com/nprindle/nur-packages"
         },
         "ondt": {
-            "rev": "746905a659494e5d9df674c7828de362d41b39d8",
-            "sha256": "0sixklfvcy3f0kc1pi8rm8wn8as97s0yh1d4yy1bcpf4qwnp71pc",
+            "rev": "f55ac604057e0e70a404b84598bf4d64ee278eaa",
+            "sha256": "1r50cgaaqwzbbmlb19zinn37i7110ghyr4qn7x2pdc0dabci612i",
             "url": "https://github.com/ondt/nur-packages"
         },
         "onny": {
