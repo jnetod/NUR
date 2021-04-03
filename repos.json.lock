@@ -395,8 +395,8 @@
             "url": "https://github.com/lschuermann/nur-packages"
         },
         "lucasew": {
-            "rev": "6989e9c39f54bbc358ecbad4a32eab6ce32a8e30",
-            "sha256": "1q4ikwbzrrghzw45fcjr5mkshrhc5yz8cc9w289kx4jx9wg5jlzw",
+            "rev": "1c44f74cc932da44765bd5fb2c96626c2000f234",
+            "sha256": "0qghmzxh0j8h3izxrcf0clqidgkkykzsji3hxr01hscfx7l3f873",
             "url": "https://github.com/lucasew/nixcfg"
         },
         "makefu": {
@@ -471,8 +471,8 @@
             "url": "https://github.com/mrVanDalo/nur-packages"
         },
         "mweinelt": {
-            "rev": "2535cb9180247a94da34f3277c4fbea9c15b91eb",
-            "sha256": "1zlphavlzpsbj6xmi5lpm96hx5p704qcf2bzr85vb3by6na8cr5a",
+            "rev": "be14b52a44c09a7562d3470068d6af6a26f28cf2",
+            "sha256": "1bgz3lbh0nwajisb1b90ma8w0vkfz29vyyvjrh2znkw7wnch14c6",
             "url": "https://github.com/mweinelt/nur-packages"
         },
         "n1kolasM": {
@@ -622,8 +622,8 @@
             "url": "https://gitlab.com/rummik/nixos/nur-packages"
         },
         "rycee": {
-            "rev": "f57384eb0ae1c38889d9e70fe6f2230c704baeda",
-            "sha256": "0fnkrbdzyffpqik6r2yr56jynqypn90cdjs23m6sxdinhrk2yhfv",
+            "rev": "18ed6e80be81acc9b23e58966a73e3261ae21592",
+            "sha256": "0b7lvcilq2fxfibgy023inag84qm9cnlsr9yrg355km04dh51l4d",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "schmittlauch": {
