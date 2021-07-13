@@ -17,9 +17,21 @@
             "github-contact": "afreakk",
             "url": "https://github.com/afreakk/mynixrepo"
         },
+        "alarsyo": {
+            "branch": "main",
+            "file": "pkgs/default.nix",
+            "github-contact": "alarsyo",
+            "url": "https://github.com/alarsyo/nixos-config"
+        },
         "alwinb": {
             "github-contact": "alwinber",
             "url": "https://gitlab.com/AlwinB/nur-packages"
+        },
+        "ambroisie": {
+            "branch": "main",
+            "file": "pkgs/default.nix",
+            "github-contact": "ambroisie",
+            "url": "https://github.com/ambroisie/nix-config"
         },
         "andersontorres": {
             "github-contact": "andersontorres",
@@ -33,6 +45,10 @@
             "file": "nur.nix",
             "github-contact": "arcnmx",
             "url": "https://github.com/arcnmx/nixexprs"
+        },
+        "artturin": {
+            "github-contact": "artturin",
+            "url": "https://github.com/Artturin/artturin-nur"
         },
         "awl-fcarza": {
             "github-contact": "francescocarzaniga",
@@ -105,13 +121,25 @@
             "submodules": true,
             "url": "https://github.com/cwyc/nur-packages"
         },
+        "dan4ik605743": {
+            "github-contact": "dan4ik605743",
+            "url": "https://github.com/dan4ik605743/nur"
+        },
         "dandellion": {
             "github-contact": "dali99",
             "url": "https://git.dodsorf.as/Dandellion/NUR"
         },
+        "dawidsowa": {
+            "github-contact": "dawidsowa",
+            "url": "https://github.com/dawidsowa/nur-packages"
+        },
         "demyanrogozhin": {
             "github-contact": "demyanrogozhin",
             "url": "https://github.com/demyanrogozhin/nur-packages"
+        },
+        "devins2518": {
+            "github-contact": "devins2518",
+            "url": "https://github.com/devins2518/nur"
         },
         "dezgeg": {
             "github-contact": "dezgeg",
@@ -132,6 +160,10 @@
         "drewrisinger": {
             "github-contact": "drewrisinger",
             "url": "https://github.com/drewrisinger/nur-packages"
+        },
+        "dschrempf": {
+            "github-contact": "dschrempf",
+            "url": "https://github.com/dschrempf/nur-packages"
         },
         "dtn7": {
             "github-contact": "dtn7",
@@ -197,10 +229,6 @@
         "genesis": {
             "github-contact": "bignaux",
             "url": "https://github.com/bignaux/nur-packages"
-        },
-        "gnidorah": {
-            "github-contact": "gnidorah",
-            "url": "https://github.com/gnidorah/nur-packages"
         },
         "graham33": {
             "github-contact": "graham33",
@@ -285,8 +313,17 @@
             "url": "https://github.com/kampka/nix-packages"
         },
         "kapack": {
+            "file": "nur.nix",
             "github-contact": "augu5te",
             "url": "https://github.com/oar-team/nur-kapack"
+        },
+        "kf5grd": {
+            "github-contact": "kf5grd",
+            "url": "https://github.com/kf5grd/nur-packages"
+        },
+        "kira-bruneau": {
+            "github-contact": "kira-bruneau",
+            "url": "https://gitlab.com/kira-bruneau/nur-packages"
         },
         "kmein": {
             "github-contact": "kmein",
@@ -350,10 +387,6 @@
             "github-contact": "CajuM",
             "url": "https://github.com/CajuM/nur-packages"
         },
-        "metadark": {
-            "github-contact": "MetaDark",
-            "url": "https://github.com/metadark/nur-packages"
-        },
         "mhuesch": {
             "github-contact": "mhuesch",
             "url": "https://github.com/mhuesch/nur-packages"
@@ -361,6 +394,10 @@
         "mic92": {
             "github-contact": "Mic92",
             "url": "https://github.com/Mic92/nur-packages"
+        },
+        "milahu": {
+            "github-contact": "milahu",
+            "url": "https://github.com/milahu/nur-packages"
         },
         "mmilata": {
             "github-contact": "mmilata",
@@ -416,6 +453,10 @@
             "github-contact": "neXromancers",
             "url": "https://github.com/neXromancers/nixromancers"
         },
+        "nix-data": {
+            "github-contact": "Jake-Gillberg",
+            "url": "https://github.com/Jake-Gillberg/nix-data"
+        },
         "noneucat": {
             "github-contact": "noneucat",
             "url": "https://git.sr.ht/~noneucat/nur-packages"
@@ -455,6 +496,10 @@
         "pamplemousse": {
             "github-contact": "pamplemousse",
             "url": "https://github.com/pamplemousse/nur-packages"
+        },
+        "pborzenkov": {
+            "github-contact": "pborzenkov",
+            "url": "https://github.com/pborzenkov/nur-packages"
         },
         "peel": {
             "github-contact": "peel",
@@ -542,7 +587,7 @@
         },
         "shamilton": {
             "github-contact": "SCOTT-HAMILTON",
-            "url": "https://github.com/SCOTT-HAMILTON/nur-packages-template"
+            "url": "https://github.com/SCOTT-HAMILTON/nur-packages"
         },
         "sikmir": {
             "github-contact": "sikmir",
@@ -609,6 +654,10 @@
             "github-contact": "vdemeester",
             "url": "https://gitlab.com/vdemeester/home"
         },
+        "vroad": {
+            "github-contact": "vroad",
+            "url": "https://github.com/vroad/nur-packages"
+        },
         "wamserma": {
             "github-contact": "wamserma",
             "url": "https://github.com/wamserma/nur-packages"
@@ -621,17 +670,9 @@
             "github-contact": "xeals",
             "url": "https://github.com/xeals/nur-packages"
         },
-        "yoctocell": {
-            "github-contact": "yoctocell",
-            "url": "https://github.com/yoctocell/nur-packages"
-        },
         "ysndr": {
             "github-contact": "ysndr",
             "url": "https://github.com/ysndr/nur-packages"
-        },
-        "yurrriq": {
-            "github-contact": "yurrriq",
-            "url": "https://github.com/yurrriq/nur-packages"
         },
         "zachcoyle": {
             "github-contact": "zachcoyle",
